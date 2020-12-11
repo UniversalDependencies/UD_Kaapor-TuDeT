@@ -9,3 +9,11 @@
 6	ke	ke	PART	pcl	_	5	nmod	5:nmod	_
 7	tĩ	tĩ	PART	pcl	_	5	discourse	5:discourse	_
 
+# sent_id = 2
+# text = jane japikũj mi ?
+# text_eng = Did we row (Duarte 2019 [80])
+1	jane	jane	PRON	pro	_	2	nsubj	2:nsubj	_
+2	japikũj	pikũj	VERB	vi	_	0	root	0:root	_
+3	mi	mi	PART	pcl	_	2	discourse	2:discourse	_
+4	?	?	PUNCT	punct	_	2	punct	2:punct	_
+
