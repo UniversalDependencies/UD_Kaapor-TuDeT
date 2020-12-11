@@ -4,12 +4,12 @@
 
 # Introduction
 
-UD_Munduruku-TuDeT is a collection of annotated sentences in Mundurukú. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Munduruku-TuDeT is part of the [TuLaR](https://tular.org) project. The sentences are being annotated by Fabrício Ferraz Gerardi and Eva Huber.
+UD_Kaapor-TuDeT is a collection of annotated sentences in Ka'apor. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Kaapor-TuDeT is part of the [TuLaR](https://tular.org) project. The sentences are being annotated by Fabrício Ferraz Gerardi, Carolina Aragon, Gustavo Godoy,.
 
 ## Text sources
 
-* *Mõnjoroko ã'õ - Cartilha Mundurukú 2, 3 and 5*. SIL, 1965;
-* *Aypapayũ'ũm'ũm ekawẽn*, SIL, 1977.
+* 
+* 
 
 
 # Acknowledgments
@@ -18,11 +18,11 @@ The development of the treebank is supported by the by European Research Council
 
 ## References
 
-* Crofts, M. (2004). Aspectos da língua Mundurukú. SIL-Cuiabá (MT). 2<sup>a</sup> edição.
+*
 
-* Ferraz Gerardi, F. (2020) Mundurukú notes. Unpublished manuscript (ongoing work). Tübingen.
+*
 
-* Gomes, D. M. (2006). Estudo morfológico e sintático da língua Mundurukú (Tupí). PhD thesis. Universidade de Brasília.
+*
 
 
 # Changelog
