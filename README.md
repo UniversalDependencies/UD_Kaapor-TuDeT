@@ -2,7 +2,8 @@
 
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
+UD_Kaapor-TuDeT is a collection of annotated sentences in Ka'apor. Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT) and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Kaapor-TuDeT is part of the [TuLaR](https://tular.org) project. The sentences are being annotated by Fabrício Ferraz Gerardi, Carolina Aragon, Gustavo Godoy, Kuan Tang, Lorena, N'Zinga, Sifan Zhu, and Tatiana Merzhevich .
+
 
 # Introduction
 
