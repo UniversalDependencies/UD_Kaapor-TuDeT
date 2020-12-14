@@ -18,7 +18,7 @@
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 3
-# text = Mataru Xaʔe ke Ønupã tĩ
+# text = Mataru Xaʔe ke nupã tĩ
 # text_eng = Mataru kit Xa'e again (Duarte 2019 [30])
 1	Mataru	mataru	PROPN	pn	Animacy=Hum|Number=Sing	4	nsubj	4:nsubj	_
 2	Xaʔe	xaʔe	PROPN	pn	Animacy=Hum|Number=Sing	4	obj	4:obj	_
