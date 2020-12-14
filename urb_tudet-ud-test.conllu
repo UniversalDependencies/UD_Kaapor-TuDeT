@@ -45,11 +45,11 @@
 6	tĩ	tĩ	PART	pcl	_	3	discourse	_	_
 
 # sent_id = 6
-# text = sawaʔɛ panɛm ta kɛ upa 
+# text = sawaʔe panem ta ke upa
 # text_eng = All unlucky men (Duarte 2019 [53])
-1	sawaʔɛ	sawaʔɛ	NOUN	n	Number=Sing	0	root	0:root	_
+1	sawaʔe	sawaʔe	NOUN	n	Number=Sing	0	root	0:root	_
 2	panɛm	panɛm	ADJ	adj	_	1	amod	1:amod	_
 3	ta	ta	PART	pcl	_	1	nmod	1:nmod	_
-4	kɛ	kɛ	PART	pcl	_	1	discourse	1:discourse	_
+4	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
 5	upa	upa	DET	det	_	1	det	1:det	_
 
