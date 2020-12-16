@@ -2,6 +2,7 @@
 
 # Summary
 
+<img align="left" src="not-to-release/tupi1.png" width="180" height="180">
 **UD_Kaapor-TuDeT** is a collection of annotated sentences in [Ka'apor](https://glottolog.org/resource/languoid/id/urub1250). Together with [UD_Akuntsu-TuDeT](https://github.com/UniversalDependencies/UD_Akuntsu-TuDeT), [UD_Munduruku-TuDeT](https://github.com/UniversalDependencies/UD_Munduruku-TuDeT)n and [UD_Tupinamba-TuDeT](https://github.com/UniversalDependencies/UD_Tupinamba-TuDeT), UD_Kaapor-TuDeT is part of the [TuLaR](https://tular.org) project. 
 
 
