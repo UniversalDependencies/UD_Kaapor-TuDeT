@@ -62,7 +62,7 @@
 4	jukwa	jukwa	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 8
-# text = taʔyn ukwerta je tĩ, ko aʔi iháike piɾokhũ je pe iʔaɾpe pynuhũ
+# text = taʔyn ukwerta je tĩ , ko aʔi iháike piɾokhũ je pe iʔaɾpe pynuhũ
 # text_eng = When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017: [3]) TM
 1	taʔyn	aʔyn	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ukwerta	kwer	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
