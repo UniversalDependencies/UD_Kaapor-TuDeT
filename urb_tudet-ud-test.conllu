@@ -66,7 +66,7 @@
 # text_eng = When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017: [3]) TM
 1	taʔyn	aʔyn	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ukwerta	kwer	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
-3	je	je	PART	pcl	_ 2	discourse	2:discourse	_
+3 je	je	PART	pcl _ 2 discourse 2:discourse _
 4	tĩ	tĩ	PART	pcl	_	2	discourse	2:discourse	_
 5	,	,	PUNCT	punct	_	2	punct	2:punct	_
 6	ko	ko	DET	dem	_	7	nmod	7:nmod	_
