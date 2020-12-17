@@ -53,3 +53,10 @@
 4	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
 5	upa	upa	DET	det	_	1	det	1:det	_
 
+# sent_id = 7
+# text = Tuti ke Xa'e jukwa
+1	Tuti	Tuti	PROPN	prpn	_	4	obj	4:obj	_
+2	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
+3	Xa'e	Xa'e	PROPN	prpn	_	4	nsubj	4:nsubj	_
+4	jukwa	jukwa	VERB	vt	Person=3	0	root	0:root	_
+
