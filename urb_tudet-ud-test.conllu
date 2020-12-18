@@ -87,3 +87,12 @@
 4	remusak	sak	VERB	vt	Person=2|Voice=Caus	0	root	0:root	_
 5	ʔy	ʔy	PART	pcl	Aspect=Perf	4	discourse	4:discourse	_
 
+# sent_id = 42
+# text = ihẽ apyʔakatu ne rɛhɛ a∫ɔ
+# text_eng = I am thinking about you a lot (Duarte 2019 [21])
+1	ihẽ	ihẽ	PRON	pro	Animacy=Hum|Number=Sing|Person=1	2	nsubj	2:nsubj	_
+2	apyʔakatu	pyʔa	VERB	vi	Person=1	0	root	0:root	_
+3	ne	ne	PRON	pro	Animacy=Hum|Number=Sing|Person=2	2	obl	2:obl	_
+4	rɛhɛ	ɛhɛ	ADP	pp	Rel=Cont	3	case	3:case	_
+5	a∫ɔ	∫ɔ	AUX	aux	Person=1	2	aux:tense	2:aux:tense	_
+
