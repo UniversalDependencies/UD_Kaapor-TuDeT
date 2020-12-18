@@ -12,12 +12,12 @@ Together with <a href="http://www.endangeredlanguages.com/lang/2981">UD_Akuntsu-
 
 ## Text sources
 
-* Duarte, F. B. (2019). The particle ‘ke’as a differential object and subject marker in Ka’apor. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas, 14(3), 805-826.
+* Duarte, F. B. (2019). The particle ‘ke’ as a differential object and subject marker in Ka'apor. Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas, 14(3), 805-826.
 * Gustavo Godoy. 2020. Os Ka'apor, os gestos e os sinais. PhD thesis, Universidade Federal do Rio de Janeiro.
 * Godoy, Gustavo and Ka’apor, Wyrapitã  (2017). Ka'apor. In On this and other worlds, in Kristine Stenzel and Bruna Franchetto On this and other worlds, 467-480. Language Science Press. 
 * Kakumasu, J. (1986). Urubu-Kaapor. In Desmond C. Derbyshire and Geoffrey K. Pullum, Handbook of Amazonian languages, volumen 1, 326-403.
 * Kakumasu, J. (?). Urubú Grammar, SIL.
-* Kakumasu, J. (1977).Connectives in Urubú narratives. SIL.
+* Kakumasu, J. (1977). Connectives in Urubú narratives. SIL.
 
 
 
