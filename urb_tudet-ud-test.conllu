@@ -78,3 +78,12 @@
 12	iʔaɾpe	ʔaɾ	ADV	adv	_	13	advmod	13:advmod	_
 13	pɪnuhũ	pɪnu	VERB	vi	Intense=Yes	9	conj	9:conj	_
 
+# sent_id = 41
+# text = ne ihẽ ke remusak ʔy
+# text_eng = You got me to see (it) (Duarte 2019 [19])
+1	ne	ne	PRON	pro	Animacy=Hum|Number=Sing|Person=2	4	nsubj:caus	4:nsubj:caus	_
+2	ihẽ	ihẽ	PRON	pro	Animacy=Hum|Number=Sing|Person=1	4	iobj:agent	4:iobj:agent	_
+3	ke	ke	PART	pcl	_	2	nmod	2:nmod	_
+4	remusak	sak	VERB	vt	Person=2|Voice=Caus	0	root	0:root	_
+5	ʔy	ʔy	PART	pcl	Aspect=Perf	4	aux:aspect	4:aux:aspect	_
+
