@@ -92,7 +92,7 @@
 # text_eng = When the child ate the cocoa, he gathered the cocoa seeds (Duarte 2019 [23])
 1	kaka	kaka	NOUN	n	_	4	obj	4:obj	_
 2	ke	ke	PART	pcl	_	1	nmod	1:nmod	_
-3	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+3	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 4	uʔu	ʔu	VERB	vt	Person=3	9	advcl	9:advcl	_
 5	rahã	rahã	SCONJ	sc	_	4	mark	4:mark	_
 6	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	9	nsubj	9:nsubj	_
