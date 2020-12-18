@@ -18,10 +18,10 @@
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 3
-# text = Mataru Xaʔe ke nupã tĩ
+# text = Mataru ʃaʔe ke nupã tĩ
 # text_eng = Mataru kit Xa'e again (Duarte 2019 [30])
 1	Mataru	mataru	PROPN	pn	Animacy=Hum|Number=Sing	4	nsubj	4:nsubj	_
-2	Xaʔe	xaʔe	PROPN	pn	Animacy=Hum|Number=Sing	4	obj	4:obj	_
+2	ʃaʔe	ʃaʔe	PROPN	pn	Animacy=Hum|Number=Sing	4	obj	4:obj	_
 3	ke	ke	PART	pcl	_	2	discourse	2:discourse	_
 4	nupã	nupã	VERB	vt	Person=3|Tense=Pres	0	root	0:root	_
 5	tĩ	tĩ	PART	pcl	_	4	discourse	4:discourse	_
@@ -35,12 +35,12 @@
 4	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
 
 # sent_id = 5
-# text = aʔe ke uʔuta pypyhu ke tĩ
+# text = aʔe ke uʔuta pɪpɪhu ke tĩ
 # text_eng = You will eat an owl (Duarte 2019 [41b])
 1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
 2	ke	ke	PART	pcl	_	1	discourse	_	_
 3	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
-4	pypyhu	pypyhu	NOUN	n	_	3	obj	_	_
+4	pɪpɪhu	pɪpɪhu	NOUN	n	_	3	obj	_	_
 5	ke	ke	PART	pcl	_	4	discourse	_	_
 6	tĩ	tĩ	PART	pcl	_	3	discourse	_	_
 
@@ -54,17 +54,17 @@
 5	upa	upa	DET	det	_	1	det	1:det	_
 
 # sent_id = 7
-# text = Tuti ke Xa'e jukwa
+# text = Tuti ke ʃaʔe jukwa
 # text_eng = Xa’e killed Tuti (Duarte 2019: [29])
 1	Tuti	Tuti	PROPN	prpn	_	4	obj	4:obj	_
 2	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
-3	Xa'e	Xa'e	PROPN	prpn	_	4	nsubj	4:nsubj	_
+3	ʃaʔe	ʃaʔe	PROPN	prpn	_	4	nsubj	4:nsubj	_
 4	jukwa	jukwa	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 8
-# text = taʔyn ukwerta je tĩ , ko aʔi iháike piɾokhũ je pe iʔaɾpe pynuhũ
+# text = taʔɪn ukwerta je tĩ , ko aʔi iháike piɾokhũ je pe iʔaɾpe pɪnuhũ
 # text_eng = When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017: [3]) TM
-1	taʔyn	aʔyn	NOUN	n	_	2	nsubj	2:nsubj	_
+1	taʔɪn	aʔɪn	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ukwerta	kwer	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
 3	je	je	PART	pcl	_	2	discourse	2:discourse	_
 4	tĩ	tĩ	PART	pcl	_	2	discourse	2:discourse	_
@@ -76,5 +76,5 @@
 10	je	je	PART	vt	_	9	discourse	9:discourse	_
 11	pe	pe	ADV	adv	_	9	advmod	9:advmod	_
 12	iʔaɾpe	ʔaɾ	ADV	adv	_	13	advmod	13:advmod	_
-13	pynuhũ	pynu	VERB	vi	Intense=Yes	9	conj	9:conj	_
+13	pɪnuhũ	pɪnu	VERB	vi	Intense=Yes	9	conj	9:conj	_
 
