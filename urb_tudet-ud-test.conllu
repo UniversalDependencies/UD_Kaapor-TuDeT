@@ -78,3 +78,11 @@
 12	iʔaɾpe	ʔaɾ	ADV	adv	_	13	advmod	13:advmod	_
 13	pɪnuhũ	pɪnu	VERB	vi	Intense=Yes	9	conj	9:conj	_
 
+# sent_id= 9
+# text = As pessoas compram bananas !
+1	As	a	DET	det	Gender=Fem|Number=Plur	2	nmod	2:nmod	_
+2	pessoas	pessoa	NOUN	n	_	3	nsubj	3:nsubj	_
+3	compram	comprar	VERB	vt	Mood=Ind|Tense=Pres	0	root	0:root	_
+4	bananas	banana	NOUN	n	_	3	obj	3:obj	_
+5	!	!	PUNCT	punct	_	3	punct	3:punct	_
+
