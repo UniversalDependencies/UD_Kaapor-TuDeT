@@ -114,7 +114,7 @@
 2	ta	ta	PART	pcl	_	3	nmod	3:nmod	_
 3	ajengar	jengar	VERB	vt	Person=3	0	root	0:root	_
 
-# sent_id = 82
+# sent_id = 13
 # text = ihẽ a’e ta ke amujengar
 # text_eng = I made them sing (Duarte 2014 [23b] NS)
 1	ihẽ	ihẽ	PRON	pro	_	5	nsubj	5:nsubj	_
