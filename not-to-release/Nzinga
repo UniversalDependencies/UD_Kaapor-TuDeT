@@ -22,6 +22,9 @@
 4	ke	ke	PART	pcl	_	5	discourse	5:discourse	_
 5	amujengar	jengar	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 14
+# text = a’eta ma’e jukwa-há ihẽke pe me’ẽ
+# text_eng = They gave poison to me (Duarte 2014 [25] NS)
 1	a’eta	a’e	PRON	pro	Number=Plu	3	nsubj	3:nsubj	_
 2	ma’e	ma’e	NOUN	n	_	3	obj	3:obj	_
 3	jukwa-há	jukwa	VERB	verb	Rel=Cont	6	_	_	_
