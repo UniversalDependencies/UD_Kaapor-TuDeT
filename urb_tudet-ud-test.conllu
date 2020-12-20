@@ -121,5 +121,5 @@
 2	a’e	a’e	PRON	pro	_	5	nsubj	5:nsubj	_
 3	ta	ta	PART	pcl	_	5	nmod	5:nmod	_
 4	ke	ke	PART	pcl	_	5	discourse	5:discourse	_
-5	amujengar	jengar	VERB	vt	Person=3	0	root	0:root	_
+5	amujengar	jengar	VERB	vt	Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
 
