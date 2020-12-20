@@ -100,3 +100,10 @@
 8	ke	ke	PART	pcl	_	7	nmod	7:nmod	_
 9	matɪr	matɪr	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 80
+# text = Arauxu ahem uhu
+# text_eng = Araújo shouted a lot (Duarte 2014 [5])
+1	Arauxu	Arauxu	PROPN	prpn	_	2	nsubj	2:nsubj	_
+2	ahem	hem	VERB	vt	Person=3	0	root	0:root	_
+3	uhu	uhu	ADV	adv	_	2	advmod	2:advmod	_
+
