@@ -117,7 +117,7 @@
 # text = ihẽ a’etake amujengar
 # text_eng = I made them sing (Duarte 2014 [23b] NS)
 1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
-2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plu	3	nsubj	3:nsubj	_
+2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plur	3	nsubj	3:nsubj	_
 3	amujengar	jengar	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
 
 # sent_id = 14
