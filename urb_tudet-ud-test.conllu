@@ -115,11 +115,9 @@
 3	ajengar	jengar	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 13
-# text = ihẽ a’e ta ke amujengar
+# text = ihẽ a’etake amujengar
 # text_eng = I made them sing (Duarte 2014 [23b] NS)
-1	ihẽ	ihẽ	PRON	pro	_	5	nsubj	5:nsubj	_
-2	a’e	a’e	PRON	pro	_	5	nsubj	5:nsubj	_
-3	ta	ta	PART	pcl	_	5	nmod	5:nmod	_
-4	ke	ke	PART	pcl	_	5	discourse	5:discourse	_
-5	amujengar	jengar	VERB	vt	Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plu	3	nsubj	3:nsubj	_
+5	amujengar	jengar	VERB	vt	Person=3	0	root	0:root	_
 
