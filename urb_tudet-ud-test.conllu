@@ -108,9 +108,9 @@
 3	uhu	uhu	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 81
-# text = a’e ta a-jengar
+# text = a’e ta ajengar
 # text_eng = They sang (Duarte 2014 [23a] NS)
 1	a’e	a'e	PRON	pro	_	3	nsubj	3:nsubj	_
 2	ta	ta	PART	pcl	_	3	nmod	3:nmod	_
-3	a-jengar	jengar	VERB	vt	Person=3	0	root	0:root	_
+3	ajengar	jengar	VERB	vt	Person=3	0	root	0:root	_
 
