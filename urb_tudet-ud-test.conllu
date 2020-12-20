@@ -115,9 +115,9 @@
 3	ajengar	jengar	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 82
-# text = ihē a’e ta ke a-mu-jengar
+# text = ihẽ a’e ta ke amujengar
 # text_eng = I made them sing (Duarte 2014 [23b] NS)
-1	ihē	ihē	PRON	pro	_	5	nsubj	5:nsubj	_
+1	ihẽ	ihẽ	PRON	pro	_	5	nsubj	5:nsubj	_
 2	a’e	a’e	PRON	pro	_	5	nsubj	5:nsubj	_
 3	ta	ta	PART	pcl	_	5	nmod	5:nmod	_
 4	ke	ke	PART	pcl	_	5	discourse	5:discourse	_
