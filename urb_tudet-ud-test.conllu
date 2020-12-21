@@ -36,7 +36,7 @@
 
 # sent_id = 5
 # text = aʔe ke uʔuta pɪpɪhu ke tĩ
-# text_eng = You will eat an owl (Duarte 2019 [41b] TM)
+# text_eng = He is going to eat the owl (Duarte 2019 [41b] TM)
 1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
 2	ke	ke	PART	pcl	_	1	discourse	_	_
 3	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
