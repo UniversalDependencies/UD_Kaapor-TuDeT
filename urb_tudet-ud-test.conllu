@@ -11,7 +11,7 @@
 
 # sent_id = 2
 # text = jane japikũj mi ?
-# text_eng = Did we row (Duarte 2019 [80])
+# text_eng = Did we row (Duarte 2019 [8])
 1	jane	jane	PRON	pro	_	2	nsubj	2:nsubj	_
 2	japikũj	pikũj	VERB	vi	_	0	root	0:root	_
 3	mi	mi	PART	pcl	_	2	discourse	2:discourse	_
@@ -28,7 +28,7 @@
 
 # sent_id = 4
 # text = aʔe tatu ke uʔuta
-# text_eng = He will eat the armadillo (Duarte 2019 [41a])])
+# text_eng = He will eat the armadillo (Duarte 2019 [41a] TM)
 1	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	4	nsubj	4:nsubj	_
 2	tatu	tatu	NOUN	n	Number=Sing	4	obj	4:obj	_
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
@@ -36,7 +36,7 @@
 
 # sent_id = 5
 # text = aʔe ke uʔuta pɪpɪhu ke tĩ
-# text_eng = You will eat an owl (Duarte 2019 [41b])
+# text_eng = You will eat an owl (Duarte 2019 [41b] TM)
 1	aʔe	aʔe	PRON	pro	_	3	nsubj	_	_
 2	ke	ke	PART	pcl	_	1	discourse	_	_
 3	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	_	_
@@ -46,7 +46,7 @@
 
 # sent_id = 6
 # text = sawaʔe panem ta ke upa
-# text_eng = All unlucky men (Duarte 2019 [53])
+# text_eng = All unlucky men (Duarte 2019 [53] TM)
 1	sawaʔe	sawaʔe	NOUN	n	Number=Sing	0	root	0:root	_
 2	panem	panem	ADJ	adj	_	1	amod	1:amod	_
 3	ta	ta	PART	pcl	_	1	nmod	1:nmod	_
@@ -55,7 +55,7 @@
 
 # sent_id = 7
 # text = Tuti ke ʃaʔe jukwa
-# text_eng = Xa’e killed Tuti (Duarte 2019: [29])
+# text_eng = Xa’e killed Tuti (Duarte 2019 [29] TM)
 1	Tuti	Tuti	PROPN	prpn	_	4	obj	4:obj	_
 2	ke	ke	PART	pcl	_	1	discourse	1:discourse	_
 3	ʃaʔe	ʃaʔe	PROPN	prpn	_	4	nsubj	4:nsubj	_
@@ -63,7 +63,7 @@
 
 # sent_id = 8
 # text = taʔɪn ukwerta je tĩ , ko aʔi iháike piɾokhũ je pe iʔaɾpe pɪnuhũ
-# text_eng = When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017: [3]) TM
+# text_eng = When the boy went to sleep again, the old woman took off her skirt, it is said; then (she) farted on him a lot (Godoy 2017 [3] TM)
 1	taʔɪn	aʔɪn	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ukwerta	kwer	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
 3	je	je	PART	pcl	_	2	discourse	2:discourse	_
