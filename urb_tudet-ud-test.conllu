@@ -130,3 +130,12 @@
 5	pe	pe	ADP	pp	_	4	obl	4:obl	_
 6	me’ẽ	me	VERB	verb	Person=3	0	root	0:root	_
 
+# sent_id = 15
+# text = Oho uĩ tipe ã
+# text_eng = He went to squat, in vain (G. Godoy, field work)
+# text_por = Foi acocorar-se em vão
+1	Oho	ho	VERB	vi	Person=3	0	root	0:root	_
+2	uĩ	uĩ	VERB	vi	Person=3	1	xcomp	1:xcomp	_
+3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	1:discourse	_
+4	ã	ã	PART	pcl	_	1	discourse	1:discourse	_
+
