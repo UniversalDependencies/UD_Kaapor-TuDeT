@@ -49,3 +49,11 @@
 3	pypyhu	pypyhu	NOUN	n	_	2	obj	2:obj	_
 4	ketĩ	ke	PART	pcl	_	2	discourse	2:discourse	_
 
+
+# sent_id = 7 
+# text = neke u’i ke rekarãjta
+text_eng = You will toast manioc (Duarte 2014 [28] NS)
+1	neke	ne	PRON	pro	_	4	nsubj	4:nsubj	_
+2	u’i	u’i	NOUN	n	_	4	obj	4:obj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
+4	rekarãjta	karãj	VERB	vt	Person=2|Tense=Fut	0	root	0:root	_
