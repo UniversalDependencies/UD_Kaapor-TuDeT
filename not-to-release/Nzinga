@@ -19,9 +19,8 @@
 
 
 # sent_id = 2
-# text = a’e tatu ke u’uta
-# text_eng = He will eat armadillo. (Duarte 2014 [2] NS)
-1	a’e	a’e	PRON	pro	_	4	nsubj	_	_
-2	tatu	tatu	NOUN	n	_	4	obj	_	_
-3	ke	ke	PART	pcl	_	4	nmod	_	_
-4	u’uta	’u	VERB	vt	_	0	root	_	_
+# text = Ana ke heɁõɁɨ
+# text_eng = Ana got tired
+1	Ana	Ana	PROPN	pn	Animacy=Hum|Number=Sing	3	nsubj	3:nsubj	_
+2	ke	ke	PRON	pcl	_	3	discourse	3:discourse	_
+3	heɁõɁɨ	heɁõ	VERB	vt	Person=3	0	root	0:root	_
