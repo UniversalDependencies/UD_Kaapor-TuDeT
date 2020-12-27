@@ -20,7 +20,9 @@
 
 # sent_id = 2
 # text = Ana ke heɁõɁɨ
-# text_eng = Ana got tired
+# text_eng = Ana got tired (Duarte 2014 [3] NS)
 1	Ana	Ana	PROPN	pn	Animacy=Hum|Number=Sing	3	nsubj	3:nsubj	_
 2	ke	ke	PRON	pcl	_	3	discourse	3:discourse	_
 3	heɁõɁɨ	heɁõ	VERB	vt	Person=3	0	root	0:root	_
+
+
