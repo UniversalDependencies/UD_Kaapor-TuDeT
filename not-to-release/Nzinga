@@ -23,6 +23,19 @@
 1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
 2	a’ar	’a	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 4
+# text = ihẽ ta’yn ke amu’e
+# text_eng = I taught the child (Duarte 2014 [17a] NS)
+1	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ta’yn	ta’yn	NOUN	n	_	4	obj	4:obj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
+4	amu’e	’e	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
 
 
-
+# sent_id = 5
+# text = ne ta’yn ke eremu’e
+# text_eng = You taught the child (Duarte 2014 [17b] NS)
+1	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ta’yn	ta’yn	NOUN	n	_	4	obj	4:obj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
+4	eremu’e	’e	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
