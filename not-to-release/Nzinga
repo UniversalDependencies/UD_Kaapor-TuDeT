@@ -39,3 +39,13 @@
 2	ta’yn	ta’yn	NOUN	n	_	4	obj	4:obj	_
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
 4	eremu’e	’e	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
+
+
+# sent_id = 6
+# text = a’eke u‘uta pypyhu ketĩ
+# text_eng = He will eat owl (Duarte 2014 [27] NS)
+1	a’eke	a’e	PRON	pro	_	2	nsubj	2:nsubj	_
+2	u‘uta	‘u	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
+3	pypyhu	pypyhu	NOUN	n	_	2	obj	2:obj	_
+4	ketĩ	ke	PART	pcl	_	2	discourse	2:discourse	_
+
