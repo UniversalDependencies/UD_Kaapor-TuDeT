@@ -75,3 +75,13 @@
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
 4	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	0:root	_
 
+
+# sent_id = 10  Was ist 'gen-bark' und 'fish-prosp' ??
+# text = myra pirer ke te’e pirawan muwak
+# text_eng = The bark of the tree will really turn into a fishlike being (Duarte 2014 [42] NS)
+1	myra	myra	NOUN	n	_	6	nsubj	6:nsubj	_
+2	pirer	pirer	NOUN	n	_	1	nmod	1:nmod	_
+3	ke	ke	PART	pcl	_	6	nmod	6:nmod	_
+4	te’e	te’e	ADV	adv	_	6	advmod	6:advmod	_
+5	pirawan	pirawan	NOUN	n	_	6	obj	6:obj	_
+6	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
