@@ -7,3 +7,15 @@
 4	ihẽke	ihẽ	PRON	pro	Case=Aff	6	obl	6:obl	_
 5	pe	pe	ADV	adv	_	4	obl	4:obl	_
 6	me’ẽ	me	VERB	verb	Person=3	0	root	0:root	_
+
+
+# sent_id = 1
+# text = ihẽ narãj ke apirok
+# text_eng = I peeled the orange (Duarte 2014 [1] NS)
+1	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
+2	narãj	narãj	NOUN	n	_	4	obj	4:nsubj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nsubj	_
+4	apirok	pirok	VERB	verb	_	0	root	0:root	_
+
+
+# sent_id
