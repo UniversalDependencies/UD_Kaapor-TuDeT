@@ -128,7 +128,7 @@
 3	jukwahá	jukwa	NOUN	n	Rel=Cont	6	obj	6:obj	_
 4	ihẽke	ihẽ	PRON	pro	Case=Aff	6	obl	6:obl	_
 5	pe	pe	ADP	pp	_	4	obl	4:obl	_
-6	me’ẽ	me	VERB	verb	Person=3	0	root	0:root	_
+6	me’ẽ	me	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 15
 # text = Oho uĩ tipe ã
