@@ -22,3 +22,11 @@
 # text_eng = I have fallen (Duarte 2014 [4] NS)
 1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
 2	a’ar	’a	VERB	vt	Person=3	0	root	0:root	_
+
+
+# sent_id = 3
+# text = Gizonak kurritu du
+# text_eng = The man ran (Duarte 2014 [7] NS)
+1	Gizonak	Gizonak	NOUN	n	_	2	obj	2:obj	_
+2	kurritu	kurritu	VERB	vt	Person=3	0	root	0:root	_
+3	du	du	AUX	_	_	2	aux	2:aux	_
