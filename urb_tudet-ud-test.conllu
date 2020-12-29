@@ -142,6 +142,7 @@
 # sent_id = 1001
 # text = Mair ywy ke hapy
 # text_eng = Mair burned the earth
+# text_por =   [GG]
 1	Maiɾ	maiɾ	PROPN	pn	_	3	nsubj	_	_
 2	ɪwɪke	ɪwɪ	NOUN	n	Case=Aff	3	obj	_	_
 3	hapɪ	hapɪ	VERB	vt	Person=3	0	root	_	_
