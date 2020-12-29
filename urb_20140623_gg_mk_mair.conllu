@@ -1,1 +1,14 @@
+# document_source = Mair - narrativa gravada por Godoy, narrador Mati, data 2014/06/23.
+# document_title = Mair
+# document_authorship =  transcribed and annotated by Gustavo Godoy
+# sent_id = 1
+# text = Mykur
+# text_eng =  Oposssum
 
+# sent_id = 1
+# text = Mair ywy ke hapy
+# text_eng = Mair burned the earth
+1	Maiɾ	maiɾ	PROPN	pn	_	3	nsubj	_	_
+2	ɪwɪke	ɪwɪ	NOUN	n	_	3	obj	_	_
+3	hapɪ	hapɪ	VERB	vt	Person=3	0	root	_	_
+4	.	_	PUNCT	_	_	_	_	_	_
