@@ -92,3 +92,11 @@ text = ihẽke ajumukahem
 text_eng = I was frightened (Duarte 2014 [43] NS)
 1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
 2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+sent_id = 12
+text = ihẽ ne ke akutukta
+text_eng = I will poke you (Duarte 2019 [6] NS)
+1	ihẽ	ihẽ	PRON	pro	_	4	iobj	4:iobj	_
+2	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
+4	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	0:root	_
