@@ -168,10 +168,32 @@
 1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	2:nsubj	_
 2	aʔar	ʔa	VERB	vt	Person=3	0	root	0:root	_
 
-# sent_id = 4
+# sent_id = 19
 # text = ihẽ taɁɪnke amuɁe
 # text_eng = I taught the child (Duarte 2014 [17a] NS)
 1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
 2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	amuɁe	Ɂe	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+# sent_id = 20
+# text = ne taɁɪnke eremuɁe
+# text_eng = You taught the child (Duarte 2014 [17b] NS)
+1	ne	ne	PRON	pro	_	3	nsubj	3:nsubj	_
+2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	eremuɁe	Ɂe	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
+
+# sent_id = 21
+# text = aʔeke uʔuta pɪpɪhu ketĩ
+# text_eng = He will eat owl (Duarte 2014 [27] NS)
+1	aʔeke	aʔe	PRON	pro	_	2	nsubj	2:nsubj	_
+2	uʔuta	ʔu	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
+3	pɪpɪhu	pɪpɪhu	NOUN	n	_	2	obj	2:obj	_
+4	ketĩ	ke	PART	pcl	_	2	discourse	2:discourse	_
+
+# sent_id = 22
+# text = neke uʔike rekarãjta
+# text_eng = you will toast manioc (Duarte 2014 [28] NS)
+1	neke	ne	PRON	pro	_	3	nsubj	3:nsubj	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	rekarãjta	karãj	VERB	vt	Person=2|Tense=Fut	0	root	0:root	_
 
