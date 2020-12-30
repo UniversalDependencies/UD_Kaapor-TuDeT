@@ -107,3 +107,9 @@
 1	Maíra	Maíra	PROPN	pn	Animacy=Hum|Number=Sing	3	nsubj	3:nsubj	_
 2	ke	ke	PART	pcl	_	3	nmod	3:nmod	_
 3	wata	vt	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 14
+# text = Maíra wata
+# text_eng = Maíra walked [Voluntarily] (Duarte 2019 [10b] NS)
+1	Maíra	Maíra	PROPN	pn	Animacy=Hum|Number=Sing	2	nsubj	2:nsubj	_
+2	wata	wata	VERB	vt	_	0	root	0:root	_
