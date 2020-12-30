@@ -162,3 +162,16 @@
 2	narãjke	narãj	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	apirok	pirok	VERB	vt	_	0	root	0:root	_
 
+# sent_id = 18
+# text = ihẽke aʔar
+# text_eng = I have fallen (Duarte 2014 [4] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	2:nsubj	_
+2	aʔar	ʔa	VERB	vt	Person=3	0	root	0:root	_
+
+# sent_id = 4
+# text = ihẽ taɁɪnke amuɁe
+# text_eng = I taught the child (Duarte 2014 [17a] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	taɁɪnke	taɁɪn	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	amuɁe	Ɂe	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
