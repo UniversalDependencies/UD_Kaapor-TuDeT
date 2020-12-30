@@ -113,3 +113,13 @@
 # text_eng = Maíra walked [Voluntarily] (Duarte 2019 [10b] NS)
 1	Maíra	Maíra	PROPN	pn	Animacy=Hum|Number=Sing	2	nsubj	2:nsubj	_
 2	wata	wata	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 15
+# text = ne ihẽ mi’u ke re‘u tĩ
+# text_eng = You usually eat my food [‘You usually eat it voluntarily.’] (Duarte 2019 [14] NS)
+1	ne	ne	PROPN	pn	_	5	nsubj	5:nsubj	_
+2	ihẽ	ihẽ	PROPN	pn	_	5	iobj	5:iobj	_
+3	mi’u	mi’u	NOUN	n	_	5	obj	5:obj	_
+4	ke	ke	PART	pcl	_	3	discourse	3:discourse	_
+5	re‘u	‘u	VERB	vt	Person=3	0	root	0:root	_
+6	tĩ	tĩ	PART	pcl	_	5	discourse	5:discourse	_
