@@ -197,3 +197,22 @@
 2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	rekarãjta	karãj	VERB	vt	Person=2|Tense=Fut	0	root	0:root	_
 
+# sent_id = 23
+# text = ihẽ neke akutukta
+# text_eng = I will poke you (Duarte 2019 [6] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	neke	ne	PRON	pro	_	3	obj	3:obj	_
+3	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	0:root	_
+
+# sent_id = 13
+# text = Maírake wata
+# text_eng = Maíra walked [With some effort] (Duarte 2019 [10a] NS)
+1	Maíra	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
+2	wata	vt	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 14
+# text = Maíra wata
+# text_eng = Maíra walked [Voluntarily] (Duarte 2019 [10b] NS)
+1	Maíra	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
+2	wata	wata	VERB	vt	_	0	root	0:root	_
+
