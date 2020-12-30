@@ -1,82 +1,37 @@
 
-
-
-
 # sent_id = 2
-# text = Anake heɁõɁɨ
+# text = Anake heɁõɁɪ
 # text_eng = Ana got tired (Duarte 2014 [3] NS)
-1	Anake	Ana	PROPN	pn	Animacy=Hum|Number=Sing	2	_	_	_
-2	heɁõɁɨ	eɁõɁɨ	VERB	vt	Person=3	0	root	_	_
-
-
-# sent_id = 3
-# text = ihẽke a’ar
-# text_eng = I have fallen (Duarte 2014 [4] NS)
-1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
-2	a’ar	’a	VERB	vt	Person=3	0	root	0:root	_
-
-# sent_id = 4
-# text = ihẽ ta’yn ke amu’e
-# text_eng = I taught the child (Duarte 2014 [17a] NS)
-1	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
-2	ta’yn	ta’yn	NOUN	n	_	4	obj	4:obj	_
-3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
-4	amu’e	’e	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
-
-
-# sent_id = 5
-# text = ne ta’yn ke eremu’e
-# text_eng = You taught the child (Duarte 2014 [17b] NS)
-1	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
-2	ta’yn	ta’yn	NOUN	n	_	4	obj	4:obj	_
-3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
-4	eremu’e	’e	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
-
-
-# sent_id = 6
-# text = a’eke u‘uta pypyhu ketĩ
-# text_eng = He will eat owl (Duarte 2014 [27] NS)
-1	a’eke	a’e	PRON	pro	_	2	nsubj	2:nsubj	_
-2	u‘uta	‘u	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
-3	pypyhu	pypyhu	NOUN	n	_	2	obj	2:obj	_
-4	ketĩ	ke	PART	pcl	_	2	discourse	2:discourse	_
-
-
-# sent_id = 7 
-# text = neke u’i ke rekarãjta
-# text_eng = You will toast manioc (Duarte 2014 [28] NS)
-1	neke	ne	PRON	pro	_	4	nsubj	4:nsubj	_
-2	u’i	u’i	NOUN	n	_	4	obj	4:obj	_
-3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
-4	rekarãjta	karãj	VERB	vt	Person=2|Tense=Fut	0	root	0:root	_
+1	Anake	Ana	PROPN	pn	Animacɪ=Hum|Number=Sing	2	_	_	_
+2	heɁõɁɪ	eɁõɁɪ	VERB	vt	Person=3	0	root	_	_
 
 
 # sent_id = 8 Was ist NCT-foot??
-# text = a’eke ipy ke tukwa
+# text = aʔeke ipɪke tukwa
 # text_eng = He has hurt his own foot (Duarte 2014 [30] NS)
-1	a’eke	a’e	PRON	pro	_	4	nsubj	4:nsubj	_
-2	ipy	ipy	NOUN	n	_	4	obj	4:obj	_
+1	aʔeke	aʔe	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ipɪke	ipɪ	NOUN	n	_	4	obj	4:obj	_
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
 4	tukwa	tukwa	VERB	vt	Person=3	0	root	0:root	_
 
+
 # sent_id = 9
-# text = a’eke eha ke tukwatĩ
+# text = aʔeke eha ke tukwatĩ
 # text_eng = He has hurt his own eye (Duarte 2014 [31] NS)
-1	a’eke	a’e	PRON	pro	_	4	nsubj	4:nsubj	_
+1	aʔeke	aʔe	PRON	pro	_	4	nsubj	4:nsubj	_
 2	eha	eha	NOUN	n	Rel=Cont	4	obj	4:obj	_
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
 4	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	0:root	_
 
 
-# sent_id = 10  Was ist 'gen-bark' und 'fish-prosp' ??
-# text = myra pirer ke te’e pirawan muwak
+# sent_id = 10
+# text = mɪra pirerke teʔe pirawan muwak
 # text_eng = The bark of the tree will really turn into a fishlike being (Duarte 2014 [42] NS)
-1	myra	myra	NOUN	n	_	6	nsubj	6:nsubj	_
-2	pirer	pirer	NOUN	n	_	1	nmod	1:nmod	_
-3	ke	ke	PART	pcl	_	6	nmod	6:nmod	_
-4	te’e	te’e	ADV	adv	_	6	advmod	6:advmod	_
-5	pirawan	pirawan	NOUN	n	_	6	obj	6:obj	_
-6	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+1	mɪra	mɪra	NOUN	n	_	5	nsubj	5:nsubj	_
+2	pirerke	pirer	NOUN	n	Case=Aff	1	nmod	1:nmod	_
+3	teʔe	teʔe	ADV	adv	_	5	advmod	5:advmod	_
+4	pirawan	pirawan	NOUN	n	_	5	obj	5:obj	_
+5	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
 
 
 # sent_id = 11
@@ -85,33 +40,14 @@
 1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
 2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
 
-# sent_id = 12
-# text = ihẽ ne ke akutukta
-# text_eng = I will poke you (Duarte 2019 [6] NS)
-1	ihẽ	ihẽ	PRON	pro	_	4	iobj	4:iobj	_
-2	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
-3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
-4	akutukta	kutuk	VERB	vt	Person=1|Tense=Fut	0	root	0:root	_
 
-# sent_id = 13
-# text = Maíra ke wata
-# text_eng = Maíra walked [With some effort] (Duarte 2019 [10a] NS)
-1	Maíra	Maíra	PROPN	pn	Animacy=Hum|Number=Sing	3	nsubj	3:nsubj	_
-2	ke	ke	PART	pcl	_	3	nmod	3:nmod	_
-3	wata	vt	VERB	vt	_	0	root	0:root	_
 
-# sent_id = 14
-# text = Maíra wata
-# text_eng = Maíra walked [Voluntarily] (Duarte 2019 [10b] NS)
-1	Maíra	Maíra	PROPN	pn	Animacy=Hum|Number=Sing	2	nsubj	2:nsubj	_
-2	wata	wata	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 15
-# text = ne ihẽ mi’u ke re‘u tĩ
-# text_eng = You usually eat my food [‘You usually eat it voluntarily.’] (Duarte 2019 [14] NS)
-1	ne	ne	PROPN	pn	_	5	nsubj	5:nsubj	_
-2	ihẽ	ihẽ	PROPN	pn	_	5	iobj	5:iobj	_
-3	mi’u	mi’u	NOUN	n	_	5	obj	5:obj	_
-4	ke	ke	PART	pcl	_	3	discourse	3:discourse	_
-5	re‘u	‘u	VERB	vt	Person=3	0	root	0:root	_
-6	tĩ	tĩ	PART	pcl	_	5	discourse	5:discourse	_
+# text = ne ihẽ miʔuke re‘u tĩ
+# text_eng = you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS)
+1	ne	ne	PROPN	pn	_	4	nsubj	4:nsubj	_
+2	ihẽ	ihẽ	PROPN	pn	_	4	iobj	4:iobj	_
+3	miʔuke	miʔu	NOUN	n	_	4	obj	4:obj	_
+4	re‘u	e‘u	VERB	vt	Person=3	0	root	0:root	_
+5	tĩ	tĩ	PART	pcl	_	5	discourse	5:discourse	_
