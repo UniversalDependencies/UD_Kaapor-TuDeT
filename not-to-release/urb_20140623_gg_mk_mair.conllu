@@ -5,10 +5,22 @@
 # text = Mykur
 # text_eng =  Oposssum
 
-# sent_id = 1
-# text = Mair ywy ke hapy
-# text_eng = Mair burned the earth
+# sent_id = 1001
+# text = maiɾ ɪwɪke hapɪ
+# text_eng = Mair burned the earth.
 1	Maiɾ	maiɾ	PROPN	pn	_	3	nsubj	_	_
 2	ɪwɪke	ɪwɪ	NOUN	n	Case=Aff	3	obj	_	_
 3	hapɪ	hapɪ	VERB	vt	Person=3	0	root	_	_
+
+# sent_id = 1002
+# text = ɪwɪ hapɪ kɔʔɛm ɾahã pɛ ihɔn
+# text_eng = The earth buned, in the morning
+
+# sent_id = 1003
+# text = ɪwɪ hapɪ kɔʔɛm ɾahã pɛ ihɔn
+# text_eng = The earth buned, in the morning
+1	pɛ	_	_	_	_	_	_	_	_
+2	apɔʔi-tapuɾu-kɛ-pɛ	_	NOUN	n	Case=Aff;Case=Dat	3	nsubj	_	_
+3	jɛʔɛ̃	_	VERB	vt	Person=3	0	root	_	_
+4	hɔ	_	VERB	vi	Person=3	_	_	_	_
 
