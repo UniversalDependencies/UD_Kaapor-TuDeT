@@ -207,8 +207,8 @@
 # sent_id = 24
 # text = Maírake wata
 # text_eng = Maíra walked [With some effort] (Duarte 2019 [10a] NS)
-1	Maíra	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
-2	wata  wata	vt	VERB	vt	_	0	root	0:root	_
+1	Maírake	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
+2	wata wata	vt	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 25
 # text = Maíra wata
