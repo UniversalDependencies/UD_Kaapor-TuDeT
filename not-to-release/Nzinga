@@ -1,32 +1,24 @@
 
 
-# sent_id = 1
-# text = ihẽ narãj ke apirok
-# text_eng = I peeled the orange (Duarte 2014 [1] NS)
-1	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
-2	narãj	narãj	NOUN	n	_	4	obj	4:obj	_
-3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
-4	apirok	pirok	VERB	vt	_	0	root	0:root	_
 
 
 # sent_id = 2
-# text = Ana ke heɁõɁɨ
+# text = Anake heɁõɁɨ
 # text_eng = Ana got tired (Duarte 2014 [3] NS)
-1	Ana	Ana	PROPN	pn	Animacy=Hum|Number=Sing	3	nsubj	3:nsubj	_
-2	ke	ke	PRON	pcl	_	3	discourse	3:discourse	_
-3	heɁõɁɨ	heɁõ	VERB	vt	Person=3	0	root	0:root	_
+1	Anake	Ana	PROPN	pn	Animacy=Hum|Number=Sing	2	_	_	_
+2	heɁõɁɨ	eɁõɁɨ	VERB	vt	Person=3	0	root	_	_
 
 
 # sent_id = 3
-# text = ihẽke a’ar
+# text = ihẽke a’ar
 # text_eng = I have fallen (Duarte 2014 [4] NS)
-1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
+1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
 2	a’ar	’a	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 4
-# text = ihẽ ta’yn ke amu’e
+# text = ihẽ ta’yn ke amu’e
 # text_eng = I taught the child (Duarte 2014 [17a] NS)
-1	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
+1	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
 2	ta’yn	ta’yn	NOUN	n	_	4	obj	4:obj	_
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
 4	amu’e	’e	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
@@ -88,9 +80,9 @@
 
 
 # sent_id = 11
-# text = ihẽke ajumukahem
+# text = ihẽke ajumukahem
 # text_eng = I was frightened (Duarte 2014 [43] NS)
-1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
+1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
 2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
 
 # sent_id = 12
