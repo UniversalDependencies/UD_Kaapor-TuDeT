@@ -87,3 +87,8 @@
 6	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
 
 
+sent_id = 11
+text = ihẽke ajumukahem
+text_eng = I was frightened (Duarte 2014 [43] NS)
+1	ihẽke	ihẽ	PRON	pro	_	2	nsubj	2:nsubj	_
+2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
