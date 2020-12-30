@@ -139,6 +139,14 @@
 3	tipe	tipe	PART	pcl	Aspect=Frus	1	discourse	1:discourse	_
 4	ã	ã	PART	pcl	_	1	discourse	1:discourse	_
 
+# sent_id = 16
+# text = aʔerehe tarũ neʃĩke joʔok
+# text_eng = For that reason Tarũ married Nexĩ (Kakumasu [?] [4] TM)
+1	aʔerehe	aʔerehe	ADV	adv	_	4	advmod	4:advmod	_
+2	tarũ	tarũ	PROPN	prpn	_	4	nsubj	4:nsubj	_
+3	neʃĩke	neʃĩ	PROPN	prpn	Case=Aff	4	obj	4:obj	_
+4	joʔok	joʔok	VERB	vt	Person=3	0	root	0:root	_
+
 # sent_id = 1001
 # text = Maiɾ ɪwɪke hapɪ
 # text_eng = Mair burned the earth
