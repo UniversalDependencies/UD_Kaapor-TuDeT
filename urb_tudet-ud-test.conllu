@@ -155,3 +155,10 @@
 2	ɪwɪke	ɪwɪ	NOUN	n	Case=Aff	3	obj	_	_
 3	hapɪ	hapɪ	VERB	vt	Person=3	0	root	_	_
 
+# sent_id = 17
+# text = ihẽ narãjke apirok
+# text_eng = I peeled the orange (Duarte 2014 [1] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	narãjke	narãj	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	apirok	pirok	VERB	vt	_	0	root	0:root	_
+
