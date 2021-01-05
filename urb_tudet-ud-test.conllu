@@ -219,7 +219,7 @@
 # sent_id = 26
 # text = Anake heɁõɁɪ
 # text_eng = Ana got tired (Duarte 2014 [3] NS)
-1	Anake	Ana	PROPN	pn	Animacɪ=Hum|Number=Sing	2	nmod	2:nmod	_
+1	Anake	Ana	PROPN	pn	_	2	nmod	2:nmod	_
 2	heɁõɁɪ	eɁõɁɪ	NOUN	n	Rel=NCont	0	root	0:root	_
 
 # sent_id = 27
