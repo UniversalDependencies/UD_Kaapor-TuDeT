@@ -216,3 +216,17 @@
 1	Maíra	Maíra	PROPN	pn	_	2	nsubj	2:nsubj	_
 2	wata	wata	VERB	vt	_	0	root	0:root	_
 
+# sent_id = 2
+# text = Anake heɁõɁɪ
+# text_eng = Ana got tired (Duarte 2014 [3] NS)
+1	Anake	Ana	PROPN	pn	Animacɪ=Hum|Number=Sing	2	_	_	_
+2	heɁõɁɪ	eɁõɁɪ	NOUN	n	Rel=NCont	0	root	_	_
+
+# sent_id = 8
+# text = aʔeke ipɪke tukwa
+# text_eng = He has hurt his own foot (Duarte 2014 [30] NS)  Was ist NCT-foot??
+1	aʔeke	aʔe	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ipɪke	pɪ	NOUN	n	Case=Aff|Rel=NCont	4	obj	4:obj	_
+3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
+4	tukwa	tukwa	VERB	vt	Person=3	0	root	0:root	_
+
