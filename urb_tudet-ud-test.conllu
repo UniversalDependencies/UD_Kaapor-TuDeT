@@ -230,3 +230,10 @@
 3	ke	ke	PART	pcl	_	4	nmod	4:nmod	_
 4	tukwa	tukwa	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 28
+# text = aʔeke ehake tukwatĩ
+# text_eng = He has hurt his own eye (Duarte 2014 [31] NS)
+1	aʔeke	aʔe	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ehake	eha	NOUN	n	Case=Aff|Rel=Cont	4	obj	4:obj	_
+3	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	0:root	_
+
