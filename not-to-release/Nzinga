@@ -60,3 +60,9 @@
 3	ihẽke	ihẽ	PRON	pro	Case=Aff	4	nsubj	4:nsubj	_
 4	peharõta	harõ	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
 
+# sent_id = 21
+# text = aʔe ʔokke mujã
+# text_eng = He has made the house (Duarte 2019 [34a] NS)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ʔokke	ʔok	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	mujã	mujã	VERB	vt	_	0	root	0:root	_
