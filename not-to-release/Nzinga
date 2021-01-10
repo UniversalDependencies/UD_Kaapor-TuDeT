@@ -76,7 +76,7 @@
 
 # sent_id = 23
 # text = ihẽke uʔi akarãj
-# text_eng = I mashed manioc (in order to produce cassava flour) (Duarte 2019 [37] NS)
+# text_eng = I mashed manioc (in order to produce cassava flour) (Duarte 2019 [42] NS)
 1	ihẽke	ihẽ	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
 2	uʔi	uʔi	NOUN	n	_	3	obj	3:obj	_
 3	akarãj	karãj	VERB	vt	_	0	root	0:root	_
