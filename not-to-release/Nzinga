@@ -66,3 +66,10 @@
 1	aʔe	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
 2	ʔokke	ʔok	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	mujã	mujã	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 21
+# text = ihẽ ʔok amujã
+# text_eng = I have made a house (Duarte 2019 [34b] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ʔok	ʔok	NOUN	n	_	3	obj	3:obj	_
+3	amujã	mujã	VERB	vt	_	0	root	0:root	_
