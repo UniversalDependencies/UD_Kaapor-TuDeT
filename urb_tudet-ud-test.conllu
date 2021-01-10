@@ -236,3 +236,62 @@
 2	ehake	eha	NOUN	n	Case=Aff|Rel=Cont	3	obj	3:obj	_
 3	tukwatĩ	tukwa	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 29
+# text = mɪra pirerke teʔe pirawan muwak
+# text_eng = The bark of the tree will really turn into a fishlike being (Duarte 2014 [42] NS)
+1	mɪra	mɪra	NOUN	n	_	5	nsubj	5:nsubj	_
+2	pirerke	pirer	NOUN	n	Case=Aff	1	nmod	1:nmod	_
+3	teʔe	teʔe	ADV	adv	_	5	advmod	5:advmod	_
+4	pirawan	pirawan	NOUN	n	_	5	obj	5:obj	_
+5	muwak	wak	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+# sent_id = 30
+# text = ihẽke ajumukahem
+# text_eng = I was frightened (Duarte 2014 [43] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	2	nsubj	2:nsubj	_
+2	ajumukahem	kahem	VERB	vt	Person=1|Voice=Cau	0	root	0:root	_
+
+# sent_id = 31
+# text = ne ihẽ miʔuke reʔutĩ
+# text_eng = you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS)
+1	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ihẽ	ihẽ	PRON	pro	_	3	nmod	3:nmod	_
+3	miʔuke	miʔu	NOUN	n	Rel=Cont	4	obj	4:obj	_
+4	reʔutĩ	eʔu	VERB	vt	Number=Sing|Person=2	0	root	0:root	_
+
+# sent_id = 32
+# text = apo pehẽ ihẽke peharõta (does the pehẽ means you??)
+# text_eng = Now you will wait for me (Duarte 2019 [31] NS)
+1	apo	apo	ADV	n	_	4	advmod	4:advmod	_
+2	pehẽ	pehẽ	PRON	pro	_	4	nsubj	4:nsubj	_
+3	ihẽke	ihẽ	PRON	pro	Case=Aff	4	obj	4:obj	_
+4	peharõta	harõ	VERB	vt	Number=Plur|Person=2|Tense=Fut	0	root	0:root	_
+
+# sent_id = 33
+# text = aʔe ʔokke mujã
+# text_eng = He has made the house (Duarte 2019 [34a] NS)
+1	aʔe	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ʔokke	ʔok	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	mujã	mujã	VERB	vt	Person=3	0	root	0:root	_
+
+# sent_id = 34
+# text = ihẽ ʔok amujã
+# text_eng = I have made a house (Duarte 2019 [34b] NS)
+1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ʔok	ʔok	NOUN	n	_	3	obj	3:obj	_
+3	amujã	mujã	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
+
+# sent_id = 35
+# text = ihẽke uʔi akarãj
+# text_eng = I mashed manioc (in order to produce cassava flour) (Duarte 2019 [42] NS)
+1	ihẽke	ihẽ	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
+2	uʔi	uʔi	NOUN	n	_	3	obj	3:obj	_
+3	akarãj	karãj	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
+
+# sent_id = 36
+# text = neke uʔike rekarãjta
+# text_eng = You will mash a specific amount of manioc (in order to produce cassava flour) (Duarte 2019 [43] NS)
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
+
