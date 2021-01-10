@@ -80,3 +80,10 @@
 1	ihẽke	ihẽ	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
 2	uʔi	uʔi	NOUN	n	_	3	obj	3:obj	_
 3	akarãj	karãj	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 24
+# text = neke uʔike rekarãjta
+# text_eng = You will mash a specific amount of manioc (in order to produce cassava flour) (Duarte 2019 [43] NS)
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
+2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
+3	rekarãjta	karãj	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
