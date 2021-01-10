@@ -46,16 +46,17 @@
 # sent_id = 15
 # text = ne ihẽ miʔuke re‘u tĩ
 # text_eng = you usually eat my food [‘you usually eat it voluntarily.ʔ] (Duarte 2019 [14] NS)
-1	ne	ne	PROPN	pn	_	4	nsubj	4:nsubj	_
-2	ihẽ	ihẽ	PROPN	pn	_	4	iobj	4:iobj	_
+1	ne	ne	PRON	pro	_	4	nsubj	4:nsubj	_
+2	ihẽ	ihẽ	PRON	pro	_	4	iobj	4:iobj	_
 3	miʔuke	miʔu	NOUN	n	_	4	obj	4:obj	_
 4	re‘u	e‘u	VERB	vt	Person=3	0	root	0:root	_
 5	tĩ	tĩ	PART	pcl	_	5	discourse	5:discourse	_
 
 # sent_id = 20
-# text = apo pehẽ ihẽke peharõta
+# text = apo pehẽ ihẽke peharõta (does the pehẽ means you??)
 # text_eng = Now you will wait for me (Duarte 2019 [31] NS)
 1	apo	apo	NOUN	n	_	4	obj	4:obj	_
-2	pehẽ	pehẽ	PROPN	pn	_	4	obj	4:obj	_
-3	ihẽke	ihẽ	PROPN	pn	Case=Aff	4	nsubj	4:nsubj	_
+2	pehẽ	pehẽ	PRON	pro	_	4	obj	4:obj	_
+3	ihẽke	ihẽ	PRON	pro	Case=Aff	4	nsubj	4:nsubj	_
 4	peharõta	harõ	VERB	vt	Person=3|Tense=Fut	0	root	0:root	_
+
