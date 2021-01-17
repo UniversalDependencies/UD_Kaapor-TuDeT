@@ -67,3 +67,12 @@
 6	tihapa	_	NOUN	_	_	_	_	_	_
 7	tajahu	_	NOUN	_	_	_	_	_	_
 
+# sent_id = 8
+# sent = Pe, ihẽ asak.
+# sent_pt =  E eu vi (ela). (UKconnect [8] NS)
+# sent_eng =  And I saw her.
+1	Pe	pe	ADV	adv	_	4	advmod	4:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ihẽ	ihẽ	PRON	pro	_	4	obj	4:obj	_
+4	asak	sak	VERB	vt	Person=1	0	root	0:root	_
+
