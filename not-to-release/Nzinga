@@ -85,3 +85,12 @@
 3	imãi	mãi	NOUN	_	_	4	obj	4:obj	_
 4	ihĩ	hĩ	VERB	Person=3	_	0	root	0:root	_
 
+# sent_id = 10
+# sent = Pe, maʔã uĩ
+# sent_pt = E ela estava olhando. (UKconnect [10] NS)
+# sent_eng = And she was looking
+1	Pe	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	maʔã	_	_	_	_	_	_	_	_
+4	uĩ	_	_	_	_	_	_	_	_
+
