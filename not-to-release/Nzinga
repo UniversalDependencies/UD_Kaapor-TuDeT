@@ -31,6 +31,27 @@
 3	oho	ho	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 5
-# sent = Pe, ihẽ a-sak "ma'e apo" aja "makahi" aja ihẽ a-kwa-ha.
+# sent = Pe, ihẽ asak "maʔe apo" aja "makahi" aja ihẽ akwaha.
 # sent_pt = E então, eu vi (ela)- "O que é isto? É um caititu", assim (foi) meu pensamento (errado, enganado).  (UKconnect [5] NS)
 # sent_eng = And then, I saw (her)-"What is this? It's a caititu", so (it was) my thought (wrong, deceived). 
+1	Pe	_	ADV	_	_	_	_	_	_
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ihẽ	_	PRON	_	_	_	_	_	_
+4	asak	_	VERB	_	_	_	_	_	_
+5	"maʔe	_	PRON	_	_	_	_	_	_
+6	apo"	_	_	_	_	_	_	_	_
+7	aja	_	_	_	_	_	_	_	_
+8	"makahi"	_	_	_	_	_	_	_	_
+9	aja	_	_	_	_	_	_	_	_
+10	ihẽ	_	PRON	_	_	_	_	_	_
+11	akwaha	_	VERB	_	_	_	_	_	_
+
+# sent_id = 6
+# sent = Pe, taʔɪrer ujan
+# sent_pt = E então, (uma) pequena correu.  (UKconnect [6] NS)
+# sent_eng = And then, (a) small one ran.
+1	Pe	pe	ADV	adv	_	4	advmod	4:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	taʔɪrer	taʔɪrer	NOUN	n	_	4	obj	4:obj	_
+4	ujan	jan	VERB	vt	Person=1	0	root	0:root	_
+
