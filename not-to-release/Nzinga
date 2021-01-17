@@ -1,7 +1,36 @@
 # sent_id = 1
 # sent = Tapiʔir ujan
-# sent_pt = A anta correu
+# sent_pt = A anta correu (UKconnect [1] NS)
 # sent_eng = The tapir ran
-1	Tapiʔir	Tapi	NOUN	n	Number=Sing	2	obj	2:obj	_
-2	ujan	jan	VERB	vt	_	0	root	0:root	_
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 2
+# sent = Tɪapu riki 
+# sent_pt = Ela fez um barulho. (UKconnect [2] NS)
+# sent_eng = She made a noise.
+1	Tɪapu	_	_	_	_	_	_	_	_
+2	riki	_	_	_	_	_	_	_	_
+
+# sent_id = 3
+# sent = Tuk tuk tuk aja riki
+# sent_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
+# sent_eng = Ploc, ploc, like this.
+1	Tuk	_	_	_	_	_	_	_	_
+2	tuk	_	_	_	_	_	_	_	_
+3	tuk	_	_	_	_	_	_	_	_
+4	aja	_	_	_	_	_	_	_	_
+5	riki	_	_	_	_	_	_	_	_
+
+# sent_id = 4
+# sent = Tapiʔir ujan oho
+# sent_pt = A anta correu para longe. (UKconnect [4] NS)
+# sent_eng = The tapir ran away.
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vt	Person=3	0	root	0:root	_
+3	oho	ho	ADV	adv	_	2	advmod	2:advmod	_
+
+# sent_id = 5
+# sent = Pe, ihẽ a-sak "ma'e apo" aja "makahi" aja ihẽ a-kwa-ha.
+# sent_pt = E então, eu vi (ela)- "O que é isto? É um caititu", assim (foi) meu pensamento (errado, enganado).  (UKconnect [5] NS)
+# sent_eng = And then, I saw (her)-"What is this? It's a caititu", so (it was) my thought (wrong, deceived). 
