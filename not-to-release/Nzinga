@@ -1,3 +1,7 @@
-
-
+# sent_id = 1
+# sent = Tapiʔir ujan
+# sent_pt = A anta correu
+# sent_eng = The tapir ran
+1	Tapiʔir	Tapi	NOUN	n	Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vt	_	0	root	0:root	_
 
