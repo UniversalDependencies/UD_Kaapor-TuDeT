@@ -16,9 +16,9 @@
 # sent = Tuk tuk tuk aja riki
 # sent_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
 # sent_eng = Ploc, ploc, like this.
-1	Tuk	_	_	_	_	_	_	_	_
-2	tuk	_	_	_	_	_	_	_	_
-3	tuk	_	_	_	_	_	_	_	_
+1	Tuk	tuk	NOUN	n	_	_	_	_	_
+2	tuk	tuk	NOUN	n	_	_	_	_	_
+3	tuk	tuk	NOUN	n	_	_	_	_	_
 4	aja	aja	ADV	_	_	_	_	_	_
 5	riki	_	_	_	_	_	_	_	_
 
