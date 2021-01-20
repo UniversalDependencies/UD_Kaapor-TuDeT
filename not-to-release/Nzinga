@@ -19,7 +19,7 @@
 1	Tuk	_	_	_	_	_	_	_	_
 2	tuk	_	_	_	_	_	_	_	_
 3	tuk	_	_	_	_	_	_	_	_
-4	aja	_	_	_	_	_	_	_	_
+4	aja	aja	ADV	_	_	_	_	_	_
 5	riki	_	_	_	_	_	_	_	_
 
 # sent_id = 4
@@ -40,9 +40,9 @@
 4	asak	_	VERB	_	_	_	_	_	_
 5	"maʔe	_	PRON	_	_	_	_	_	_
 6	apo"	_	_	_	_	_	_	_	_
-7	aja	_	_	_	_	_	_	_	_
+7	aja	aja	ADV	_	_	_	_	_	_
 8	"makahi"	_	_	_	_	_	_	_	_
-9	aja	_	_	_	_	_	_	_	_
+9	aja	aja	ADV	_	_	_	_	_	_
 10	ihẽ	_	PRON	_	_	_	_	_	_
 11	akwaha	_	VERB	_	_	_	_	_	_
 
@@ -63,7 +63,7 @@
 2	taʔɪrer	_	NOUN	_	_	_	_	_	_
 3	maʔe	_	PRON	_	_	_	_	_	_
 4	tajahu	_	NOUN	_	_	_	_	_	_
-5	aja	_	_	_	_	_	_	_	_
+5	aja	aja	ADV	_	_	_	_	_	_
 6	tihapa	_	NOUN	_	_	_	_	_	_
 7	tajahu	_	NOUN	_	_	_	_	_	_
 
