@@ -59,7 +59,7 @@
 # sent = Kuja taʔɪrer maʔe tajahu aja tihapa tajahu
 # sent_pt =  Foi uma pequena do tamanho de uma queixada. (UKconnect [7] NS)
 # sent_eng =  It was a small one the size of a jaw.
-1	Kuja	_	_	_	_	_	_	_	_
+1	Kuja	kuja	VERB	_	_	_	_	_	_
 2	taʔɪrer	_	NOUN	_	_	_	_	_	_
 3	maʔe	_	PRON	_	_	_	_	_	_
 4	tajahu	_	NOUN	_	_	_	_	_	_
