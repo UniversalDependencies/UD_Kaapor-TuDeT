@@ -102,7 +102,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
 4	ajapi	japi	VERB	vt	Person=1	0	root	0:root	_
-5	indo	ndo	_	_	_	4	_	4	_
+5	indo	i	_	_	_	4	_	4	_
 
 # sent_id = 12
 # sent = Se atu xuʔa nahã.
