@@ -317,3 +317,11 @@
 2	aja	aja	ADV	adv	_	1	advmod	_	_
 3	riki	riki	PART	prcl	_	1	discourse	_	_
 
+# sent_id = 4
+# sent = Tapiʔir ujan oho
+# sent_pt = A anta correu para longe. (UKconnect [4] NS)
+# sent_eng = The tapir ran away.
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vi	Person=3	0	root	0:root	_
+3	oho	ho	VERB	vi	Person=3	2	compound	2:compound	_
+
