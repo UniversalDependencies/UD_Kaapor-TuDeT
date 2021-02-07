@@ -309,3 +309,11 @@
 1	Tɪapu	tɪapu	NOUN	n	_	0	root	0:root	_
 2	riki	riki	PART	pcl	_	1	discourse	1:discourse	_
 
+# sent_id = 39
+# sent = Tuktuktuk aja riki
+# sent_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
+# sent_eng = Ploc, ploc, like this.
+1	Tuktuk	tuk	NOUN	n	_	0	root	_	_
+2	aja	aja	ADV	adv	_	1	advmod	_	_
+3	riki	riki	PART	prcl	_	1	discourse	_	_
+
