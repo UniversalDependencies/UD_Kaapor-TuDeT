@@ -302,3 +302,10 @@
 1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
 2	ujan	jan	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 38
+# sent = Tɪapu riki 
+# sent_pt = Ela fez um barulho. (UKconnect [2] NS)
+# sent_eng = She made a noise.
+1	Tɪapu	tɪapu	NOUN	n	_	0	root	0:root	_
+2	riki	riki	PART	pcl	_	1	discourse	1:discourse	_
+
