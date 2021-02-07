@@ -295,3 +295,10 @@
 2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
 
+# sent_id = 37
+# sent = Tapiʔir ujan
+# sent_pt = A anta correu (UKconnect [1] NS)
+# sent_eng = The tapir ran
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vt	Person=3	0	root	0:root	_
+
