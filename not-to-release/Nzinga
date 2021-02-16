@@ -111,3 +111,43 @@
 3	xuʔa	_	NOUN	_	_	_	_	_	_
 4	nahã	nahã	ADV	adv	_	_	_	_	_
 
+# sent_id = 13
+# sent = Seterenhĩ manõ me'ẽ rehe har
+# sent_pt = Sobre a morte de Seterenhĩ.(UKconnect [13] NS)
+# sent_eng = About Seterenhĩ's death.
+1	Seterenhĩ	_	PROPN	_	_	_	_	_	_
+2	manõ	_	VERB	_	_	_	_	_	_
+3	me'ẽ	_	DET	_	_	_	_	_	_
+4	rehe	_	_	_	_	_	_	_	_
+5	har	_	_	_	_	_	_	_	_
+
+# sent_id = 14
+# sent = Xõru nixói se aʔe
+# sent_pt = O pai de Jon não estava aqui. (UKconnect [14] NS)
+# sent_eng = Jon's father was not here. 
+1	Xõru	_	PROPN	_	_	2	nsubj	2:nsubj	_
+2	nixói	_	VERB	Person=3	_	0	root	0:root	_
+3	se	_	NOUN	_	_	2	obj	2:obj	_
+4	aʔe	_	PRON	_	_	2	nmod	2:nmod	_
+
+# sent_id = 15
+# sent = Aʔerehe kaninde rehe ihẽ araho tipe.
+# sent_pt = Por esta razão eu levei-o (isto é, o filho dele) a Canindé mas ele não melhorou. (UKconnect [15] NS)
+# sent_eng = For this reason I took him (that is, his son) to Canindé but he did not improve.
+1	Aʔerehe	_	ADV	_	_	_	_	_	_
+2	kaninde	_	PROPN	_	_	_	_	_	_
+3	rehe	_	_	_	_	_	_	_	_
+4	ihẽ	_	PRON	_	_	_	_	_	_
+5	araho	_	VERB	_	_	_	_	_	_
+6	tipe	_	_	_	_	_	_	_	_
+
+# sent_id = 16
+# sent = Peteĩ Xõru jahy kanim oho
+# sent_pt =  O pai de Jon esteve ausente por um mês. (UKconnect [16] NS)
+# sent_eng =  Jon's father was absent for a month.
+1	Peteĩ	_	PRON	_	_	4	nsubj	4:nsubj	_
+2	Xõru	_	PROPN	_	_	4	nsubj	4:nsubj	_
+3	jahy	_	NOUN	_	_	4	obj	4:obj	_
+4	kanim	_	VERB	_	_	0	root	0:root	_
+5	oho	_	VERB	_	_	4	compound	4:compound	_
+
