@@ -112,7 +112,9 @@
 4	nahã	nahã	ADV	adv	_	_	_	_	_
 
 # sent_id = 13
-# sent = Seterenhĩ manõ me'ẽ rehe har
+# sent = Seterenhĩ manõ me'ẽ 
+
+har
 # sent_pt = Sobre a morte de Seterenhĩ.(UKconnect [13] NS)
 # sent_eng = About Seterenhĩ's death.
 1	Seterenhĩ	_	PROPN	_	_	_	_	_	_
@@ -126,7 +128,7 @@
 # sent_pt = O pai de Jon não estava aqui. (UKconnect [14] NS)
 # sent_eng = Jon's father was not here. 
 1	Xõru	_	PROPN	_	_	2	nsubj	2:nsubj	_
-2	nixói	_	VERB	Person=3	_	0	root	0:root	_
+2	nixói	_	VERB	_	Person=3	0	root	0:root	_
 3	se	_	NOUN	_	_	2	obj	2:obj	_
 4	aʔe	_	PRON	_	_	2	nmod	2:nmod	_
 
@@ -148,6 +150,16 @@
 1	Peteĩ	_	PRON	_	_	4	nsubj	4:nsubj	_
 2	Xõru	_	PROPN	_	_	4	nsubj	4:nsubj	_
 3	jahy	_	NOUN	_	_	4	obj	4:obj	_
-4	kanim	_	VERB	_	_	0	root	0:root	_
-5	oho	_	VERB	_	_	4	compound	4:compound	_
+4	kanim	_	VERB	_	Person=3	0	root	0:root	_
+5	oho	_	VERB	_	Person=3	4	compound	4:compound	_
 
+# sent_id = 17
+# sent = Arahã maʔe Kaninde rehe ihẽ araho
+# sent_pt =  Naquele tempo eu o levei a Canindé, mas ele não melhorou. (UKconnect [17] NS)
+# sent_eng =  At that time I took him to Canindé, but he didn't improve.
+1	Arahã	_	ADV	_	_	6	advmod	6:advmod	_
+2	maʔe	_	NOUN	_	_	6	_	6	_
+3	Kaninde	_	PROPN	_	_	6	obj	6:obj	_
+4	rehe	_	PART	_	_	6	_	6	_
+5	ihẽ	_	PRON	_	_	6	_	6	_
+6	araho	_	VERB	_	_	0	root	0:root	_
