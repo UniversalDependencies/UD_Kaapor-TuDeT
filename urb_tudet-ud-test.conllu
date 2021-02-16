@@ -224,7 +224,7 @@
 
 # sent_id = 27
 # text = aʔeke ipɪke tukwa
-# text_eng = He has hurt his own foot (Duarte 2014 [30] NS)  Was ist NCT-foot??
+# text_eng = He has hurt his own foot (Duarte 2014 [30] NS)
 1	aʔeke	aʔe	PRON	pro	_	3	nsubj	3:nsubj	_
 2	ipɪke	pɪ	NOUN	n	Case=Aff|Rel=NCont	3	obj	3:obj	_
 3	tukwa	tukwa	VERB	vt	Person=3	0	root	0:root	_
