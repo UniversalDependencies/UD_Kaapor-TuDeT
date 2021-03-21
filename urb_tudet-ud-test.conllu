@@ -295,3 +295,20 @@
 2	uʔike	uʔi	NOUN	n	Case=Aff	3	obj	3:obj	_
 3	rekarãjta	karãj	VERB	vt	Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
 
+# sent_id = 1001
+# text = Oropo huʔɨ pɨhɨk 
+# text_eng = Oropo came down with fever (Kakumasu 1986: 327)
+1	Oropo	Oropo	PROPN	propn	_	3	nsubj	3:nsubj	_
+2	huʔɨ	uʔɨ	NOUN	n	Rel=NCont	3	obj	3:obj	_
+3	pɨhɨk	pɨhɨk	VERB	vt	_	0	root	0:root	_
+
+# sent_id = 1002
+# text = ajameʔẽ ke urupe jeʔẽha mondo tĩ 
+# text_eng = After that Lupercio sent word also (Kakumasu 1986: 327)
+1	ajameʔẽ	ajameʔẽ	ADV	v	_	5	advmod	5:advmod	_
+2	ke	ke	PART	prcl	_	3	discourse	3:discourse	_
+3	urupe	urupe	PROPN	propn	_	5	nsubj	5:nsubj	_
+4	jeʔẽha	jeʔẽ	NOUN	n	Nmzr=Yes	5	obj	5:obj	_
+5	mondo	mondo	VERB	vt	Person=3	0	root	0:root	_
+6	tĩ	tĩ	ADV	adv	_	5	advmod	5:advmod	_
+
