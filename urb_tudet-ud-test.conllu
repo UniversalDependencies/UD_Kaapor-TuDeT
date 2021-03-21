@@ -312,3 +312,12 @@
 5	mondo	mondo	VERB	vt	Person=3	0	root	0:root	_
 6	tĩ	tĩ	ADV	adv	_	5	advmod	5:advmod	_
 
+# sent_id = 1003
+# text = pe kamarar jarusu raʔɪr raho
+# text_eng = And friends took over a small canoe (Kakumasu 1986: 327)
+1	pe	pe	CCONJ	cc	_	5	cc	5:cc	_
+2	kamarar	kamarar	NOUN	n	_	5	nsubj	5:nsubj	_
+3	jarusu	jarusu	NOUN	n	_	4	nmod	4:nmod	_
+4	raʔɪr	aʔɪr	NOUN	n	Rel=Cont	5	obj	5:obj	_
+5	raho	raho	VERB	v	Person=3	0	root	0:root	_
+
