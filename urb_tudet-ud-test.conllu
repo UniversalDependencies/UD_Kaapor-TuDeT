@@ -303,12 +303,12 @@
 3	pɨhɨk	pɨhɨk	VERB	vt	_	0	root	0:root	_
 
 # sent_id = 1002
-# text = ajameʔẽ ke urupe jeʔẽha mondo tĩ
+# text = ajameʔẽ ke Urupe jeʔẽha mondo tĩ
 # text_eng = After that Lupercio sent word also (Kakumasu 1986: 327)
 1	ajameʔẽ	ajameʔẽ	ADV	v	_	5	advmod	5:advmod	_
 2	ke	ke	PART	prcl	_	3	discourse	3:discourse	_
-3	urupe	urupe	PROPN	propn	_	5	nsubj	5:nsubj	_
-4	jeʔẽha	jeʔẽ	NOUN	n	Nomzr=Yes	5	obj	5:obj	_
+3	Urupe	urupe	PROPN	propn	_	5	nsubj	5:nsubj	_
+4	jeʔẽha	jeʔẽ	NOUN	n	Nomzr=Circ	5	obj	5:obj	_
 5	mondo	mondo	VERB	vt	Person=3	0	root	0:root	_
 6	tĩ	tĩ	ADV	adv	_	5	advmod	5:advmod	_
 
