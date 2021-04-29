@@ -321,21 +321,21 @@
 4	raʔɪr	aʔɪr	NOUN	n	Rel=Cont	5	obj	5:obj	_
 5	raho	raho	VERB	v	Person=3	0	root	0:root	_
 
-# sent_id = 10
+# sent_id = 1012
 # sent = Tapiʔir ujan
 # sent_pt = A anta correu (UKconnect [1] NS)
 # sent_eng = The tapir ran
 1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
 2	ujan	jan	VERB	vt	Person=3	0	root	0:root	_
 
-# sent_id = 20
+# sent_id = 20123
 # sent = Tɪapu riki 
 # sent_pt = Ela fez um barulho. (UKconnect [2] NS)
 # sent_eng = She made a noise.
 1	Tɪapu	tɪapu	NOUN	n	_	0	root	0:root	_
 2	riki	riki	PART	pcl	_	1	discourse	1:discourse	_
 
-# sent_id = 30
+# sent_id = 30123
 # sent = Tuktuktuk aja riki
 # sent_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
 # sent_eng = Ploc, ploc, like this.
@@ -343,7 +343,7 @@
 2	aja	aja	ADV	ADV	adv	1	advmod	_	_
 3	riki	riki	PART	prcl	_	1	discourse	_	_
 
-# sent_id = 4
+# sent_id = 412
 # sent = Tapiʔir ujan oho
 # sent_pt = A anta correu para longe. (UKconnect [4] NS)
 # sent_eng = The tapir ran away.
@@ -352,7 +352,7 @@
 3	oho	ho	VERB	vi	Person=3	2	compound	2:compound	_
 
 
-# sent_id = 60
+# sent_id = 6012
 # sent = Pe, taʔɪrer ujan
 # sent_pt = E então, (uma) pequena correu.  (UKconnect [6] NS)
 # sent_eng = And then, (a) small one ran.
@@ -361,7 +361,7 @@
 3	taʔɪrer	taʔɪrer	NOUN	n	_	4	obj	4:obj	_
 4	ujan	jan	VERB	vt	Person=1	0	root	0:root	_
 
-# sent_id = 80
+# sent_id = 8012
 # sent = Pe, ihẽ asak.
 # sent_pt =  E eu vi (ela). (UKconnect [8] NS)
 # sent_eng =  And I saw her.
@@ -370,7 +370,7 @@
 3	ihẽ	ihẽ	PRON	pro	_	4	obj	4:obj	_
 4	asak	sak	VERB	vt	Person=1	0	root	0:root	_
 
-# sent_id = 90
+# sent_id = 90234
 # sent = Pe, imãi ihĩ
 # sent_pt = E (a) mãe dela estava sentada lá. (UKconnect [9] NS)
 # sent_eng =  And (her) mother was sitting there.
@@ -379,7 +379,7 @@
 3	imãi	mãi	NOUN	n	_	4	obj	4:obj	_
 4	ihĩ	hĩ	VERB	v	Person=3	0	root	0:root	_
 
-# sent_id = 110
+# sent_id = 11034
 # sent = Pe, ihẽ ajapi indo
 # sent_pt = E eu atirei (nela). (UKconnect [11] NS)
 # sent_eng = And I shot (her).
@@ -389,7 +389,7 @@
 4	ajapi	japi	VERB	vt	Person=1	0	root	0:root	_
 5	indo	i	_	_	_	4	_	4	_
 
-# sent_id = 140
+# sent_id = 140456
 # sent = Xõru nixói se aʔe
 # sent_pt = O pai de Jon não estava aqui. (UKconnect [14] NS)
 # sent_eng = Jon's father was not here. 
@@ -398,7 +398,7 @@
 3	se	_	NOUN	n	_	2	obj	2:obj	_
 4	aʔe	_	PRON	pro	_	2	nmod	2:nmod	_
 
-# sent_id = 160
+# sent_id = 16046
 # sent = Peteĩ Xõru jahy kanim oho
 # sent_pt =  O pai de Jon esteve ausente por um mês. (UKconnect [16] NS)
 # sent_eng =  Jon's father was absent for a month.
