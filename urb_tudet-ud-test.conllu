@@ -339,7 +339,7 @@
 # text = Tuktuktuk aja riki
 # text_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
 # text_eng = Ploc, ploc, like this.
-1	Tuktuk	tuk	NOUN	n	_	0	root	_	_
+1	Tuktuktuk	tuk	NOUN	n	_	0	root	_	_
 2	aja	aja	ADV	adv	_	1	advmod	_	_
 3	riki	riki	PART	prcl	_	1	discourse	_	_
 
@@ -355,7 +355,7 @@
 # text = Pe , taʔɪrer ujan
 # text_pt = E então, (uma) pequena correu.  (UKconnect [6] NS)
 # text_eng = And then, (a) small one ran.
-1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
+1	Pe	pe	ADV	adv	_	4	advmod	4:advmod	_
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	taʔɪrer	taʔɪrer	NOUN	n	_	4	obj	4:obj	_
 4	ujan	jan	VERB	vt	Person=1	0	root	0:root	_
@@ -379,7 +379,7 @@
 4	ihĩ	hĩ	VERB	v	Person=3	0	root	0:root	_
 
 # sent_id = 11034
-# text = Pe, ihẽ ajapi indo
+# text = Pe , ihẽ ajapi indo
 # text_pt = E eu atirei (nela). (UKconnect [11] NS)
 # text_eng = And I shot (her).
 1	Pe	pe	ADV	adv	_	4	advmod	4:advmod	_
