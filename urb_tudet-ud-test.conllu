@@ -353,7 +353,7 @@
 
 
 # sent_id = 6012
-# text = Pe, taʔɪrer ujan
+# text = Pe , taʔɪrer ujan
 # text_pt = E então, (uma) pequena correu.  (UKconnect [6] NS)
 # text_eng = And then, (a) small one ran.
 1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
@@ -362,7 +362,7 @@
 4	ujan	jan	VERB	vt	Person=1	0	root	0:root	_
 
 # sent_id = 8012
-# text = Pe, ihẽ asak.
+# text = Pe , ihẽ asak.
 # text_pt =  E eu vi (ela). (UKconnect [8] NS)
 # text_eng =  And I saw her.
 1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
@@ -371,7 +371,7 @@
 4	asak	sak	VERB	vt	Person=1	0	root	0:root	_
 
 # sent_id = 90234
-# text = Pe, imãi ihĩ
+# text = Pe , imãi ihĩ
 # text_pt = E (a) mãe dela estava sentada lá. (UKconnect [9] NS)
 # text_eng =  And (her) mother was sitting there.
 1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
