@@ -387,7 +387,7 @@
 2	,	,	PUNCT	punct	_	1	punct	1:punct	_
 3	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
 4	ajapi	japi	VERB	vt	Person=1	0	root	0:root	_
-5	indo	ndo	VERB	v	REL=NCont	4	obl	4:obl	_
+5	indo	ndo	VERB	v	Rel=NCont	4	obl	4:obl	_
 
 # sent_id = 140456
 # text = Xõru nixói se aʔe
@@ -413,9 +413,9 @@
 # text_pt =  Naquele tempo eu o levei a Canindé, mas ele não melhorou. (UKconnect [17] NS)
 # text_eng =  At that time I took him to Canindé, but he didn't improve.
 1	Arahã	_	ADV	adv	_	6	advmod	6:advmod	_
-2	maʔe	_	NOUN	n	_	6	_	6	_
-3	Kaninde	_	PROPN	propn	_	6	obj	6:obj	_
-4	rehe	_	PART	_	_	6	_	6	_
-5	ihẽ	_	PRON	pro	_	6	_	6	_
-6	araho	_	VERB	v	_	0	root	0:root	_
+2	maʔe	maʔe	NOUN	n	_	6	obj	6:obj	_
+3	Kaninde	Kaninde	PROPN	propn	_	6	obl	6:obl	_
+4	rehe	ehe	ADP	posp	Rel=Cont	3	case	3:case	_
+5	ihẽ	ihẽ	PRON	pro	_	6	nsubj	6:nsubj	_
+6	araho	raho	VERB	v	Number=Sing|Person=1	0	root	0:root	_
 
