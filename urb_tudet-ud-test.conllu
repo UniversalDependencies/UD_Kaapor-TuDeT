@@ -340,7 +340,7 @@
 # text_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
 # text_eng = Ploc, ploc, like this.
 1	Tuktuk	tuk	NOUN	n	_	0	root	_	_
-2	aja	aja	ADV	ADV	adv	1	advmod	_	_
+2	aja	aja	ADV	adv	_	1	advmod	_	_
 3	riki	riki	PART	prcl	_	1	discourse	_	_
 
 # sent_id = 412
