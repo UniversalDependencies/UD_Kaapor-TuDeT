@@ -321,3 +321,100 @@
 4	raʔɪr	aʔɪr	NOUN	n	Rel=Cont	5	obj	5:obj	_
 5	raho	raho	VERB	v	Person=3	0	root	0:root	_
 
+# sent_id = 10
+# sent = Tapiʔir ujan
+# sent_pt = A anta correu (UKconnect [1] NS)
+# sent_eng = The tapir ran
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vt	Person=3	0	root	0:root	_
+
+# sent_id = 20
+# sent = Tɪapu riki 
+# sent_pt = Ela fez um barulho. (UKconnect [2] NS)
+# sent_eng = She made a noise.
+1	Tɪapu	tɪapu	NOUN	n	_	0	root	0:root	_
+2	riki	riki	PART	pcl	_	1	discourse	1:discourse	_
+
+# sent_id = 30
+# sent = Tuktuktuk aja riki
+# sent_pt = Plóc, plóc, plóc, assim. (UKconnect [3] NS)
+# sent_eng = Ploc, ploc, like this.
+1	Tuktuk	tuk	NOUN	n	_	0	root	_	_
+2	aja	aja	ADV	ADV	adv	1	advmod	_	_
+3	riki	riki	PART	prcl	_	1	discourse	_	_
+
+# sent_id = 4
+# sent = Tapiʔir ujan oho
+# sent_pt = A anta correu para longe. (UKconnect [4] NS)
+# sent_eng = The tapir ran away.
+1	Tapiʔir	Tapi	NOUN	n	Animacy=Anim|Number=Sing	2	obj	2:obj	_
+2	ujan	jan	VERB	vi	Person=3	0	root	0:root	_
+3	oho	ho	VERB	vi	Person=3	2	compound	2:compound	_
+
+
+# sent_id = 60
+# sent = Pe, taʔɪrer ujan
+# sent_pt = E então, (uma) pequena correu.  (UKconnect [6] NS)
+# sent_eng = And then, (a) small one ran.
+1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	taʔɪrer	taʔɪrer	NOUN	n	_	4	obj	4:obj	_
+4	ujan	jan	VERB	vt	Person=1	0	root	0:root	_
+
+# sent_id = 80
+# sent = Pe, ihẽ asak.
+# sent_pt =  E eu vi (ela). (UKconnect [8] NS)
+# sent_eng =  And I saw her.
+1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ihẽ	ihẽ	PRON	pro	_	4	obj	4:obj	_
+4	asak	sak	VERB	vt	Person=1	0	root	0:root	_
+
+# sent_id = 90
+# sent = Pe, imãi ihĩ
+# sent_pt = E (a) mãe dela estava sentada lá. (UKconnect [9] NS)
+# sent_eng =  And (her) mother was sitting there.
+1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	imãi	mãi	NOUN	n	_	4	obj	4:obj	_
+4	ihĩ	hĩ	VERB	v	Person=3	0	root	0:root	_
+
+# sent_id = 110
+# sent = Pe, ihẽ ajapi indo
+# sent_pt = E eu atirei (nela). (UKconnect [11] NS)
+# sent_eng = And I shot (her).
+1	Pe	pe	ADV	ADV	adv	4	advmod	4:advmod	_
+2	,	,	PUNCT	punct	_	1	punct	1:punct	_
+3	ihẽ	ihẽ	PRON	pro	_	4	nsubj	4:nsubj	_
+4	ajapi	japi	VERB	vt	Person=1	0	root	0:root	_
+5	indo	i	_	_	_	4	_	4	_
+
+# sent_id = 140
+# sent = Xõru nixói se aʔe
+# sent_pt = O pai de Jon não estava aqui. (UKconnect [14] NS)
+# sent_eng = Jon's father was not here. 
+1	Xõru	_	PROPN	propn	_	2	nsubj	2:nsubj	_
+2	nixói	_	VERB	v	Person=3	0	root	0:root	_
+3	se	_	NOUN	n	_	2	obj	2:obj	_
+4	aʔe	_	PRON	pro	_	2	nmod	2:nmod	_
+
+# sent_id = 160
+# sent = Peteĩ Xõru jahy kanim oho
+# sent_pt =  O pai de Jon esteve ausente por um mês. (UKconnect [16] NS)
+# sent_eng =  Jon's father was absent for a month.
+1	Peteĩ	_	PRON	pro	_	4	nsubj	4:nsubj	_
+2	Xõru	_	PROPN	propn	_	4	nsubj	4:nsubj	_
+3	jahy	_	NOUN	n	_	4	obj	4:obj	_
+4	kanim	_	VERB	v	Person=3	0	root	0:root	_
+5	oho	_	VERB	v	Person=3	4	compound	4:compound	_
+
+# sent_id = 170
+# sent = Arahã maʔe Kaninde rehe ihẽ araho
+# sent_pt =  Naquele tempo eu o levei a Canindé, mas ele não melhorou. (UKconnect [17] NS)
+# sent_eng =  At that time I took him to Canindé, but he didn't improve.
+1	Arahã	_	ADV	adv	_	6	advmod	6:advmod	_
+2	maʔe	_	NOUN	n	_	6	_	6	_
+3	Kaninde	_	PROPN	propn	_	6	obj	6:obj	_
+4	rehe	_	PART	_	_	6	_	6	_
+5	ihẽ	_	PRON	pro	_	6	_	6	_
+6	araho	_	VERB	v	_	0	root	0:root	_
