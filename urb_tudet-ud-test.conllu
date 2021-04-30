@@ -415,3 +415,12 @@
 5	ihẽ	ihẽ	PRON	pro	_	6	nsubj	6:nsubj	_
 6	araho	raho	VERB	v	Number=Sing|Person=1	0	root	0:root	_
 
+# sent_id = 701
+# text = ihẽ apɪʔakatu ne rɛhɛ a∫ɔ
+# text_eng = I am thinking about you a lot (Duarte 2019 [21] JL)
+1	ihẽ	ihẽ	PRON	pro	Animacy=Hum|Number=Sing|Person=1	2	nsubj	2:nsubj	_
+2	apɪʔakatu	pɪʔa	VERB	vi	Person=1	0	root	0:root	_
+3	ne	ne	PRON	pro	Animacy=Hum|Number=Sing|Person=2	2	obl	2:obl	_
+4	rɛhɛ	ɛhɛ	ADP	pp	Rel=Cont	3	case	3:case	_
+5	a∫ɔ	∫ɔ	AUX	aux	Person=1	2	aux	2:aux	_
+
