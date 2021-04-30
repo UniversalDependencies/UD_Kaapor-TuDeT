@@ -87,17 +87,15 @@
 4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	3:aux	_
 
 # sent_id = 10
-# text = kaka ke kurumĩ uʔu rahã aʔe hãʔĩm ke matɪr
+# text = kakake kurumĩ uʔu rahã aʔe hãʔĩmke matɪr
 # text_eng = When the child ate the cocoa, he gathered the cocoa seeds (Duarte 2019 [23] JL)
-1	kaka	kaka	NOUN	n	_	4	obj	4:obj	_
-2	ke	ke	PART	pcl	_	1	nmod	1:nmod	_
-3	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-4	uʔu	ʔu	VERB	vt	Person=3	9	advcl	9:advcl	_
-5	rahã	rahã	SCONJ	sc	_	4	mark	4:mark	_
-6	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	9	nsubj	9:nsubj	_
-7	hãʔĩm	ãʔĩm	NOUN	n	Number=Plur	9	obj	9:obj	_
-8	ke	ke	PART	pcl	_	7	nmod	7:nmod	_
-9	matɪr	matɪr	VERB	vt	Person=3	0	root	0:root	_
+1	kakake	kaka	NOUN	n	Case=Aff	3	obj	3:obj	_
+2	kurumĩ	kurumĩ	NOUN	n	Animacy=Hum|Number=Sing|Person=3	3	nsubj	3:nsubj	_
+3	uʔu	ʔu	VERB	vt	Person=3	7	advcl	7:advcl	_
+4	rahã	rahã	SCONJ	sc	_	3	mark	3:mark	_
+5	aʔe	aʔe	PRON	pro	Animacy=Hum|Number=Sing|Person=3	7	nsubj	7:nsubj	_
+6	hãʔĩmke	ãʔĩm	NOUN	n	Number=Plur|Case=Aff	7	obj	7:obj	_
+7	matɪr	matɪr	VERB	vt	Person=3	0	root	0:root	_
 
 # sent_id = 11
 # text = Arauxu ahem uhu
