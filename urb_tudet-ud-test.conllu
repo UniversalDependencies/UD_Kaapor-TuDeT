@@ -81,11 +81,10 @@
 # sent_id = 9
 # text = ne ihẽ ke remusak ʔɪ
 # text_eng = You got me to see (it) (Duarte 2019 [19] JL)
-1	ne	ne	PRON	pro	Animacy=Hum|Number=Sing|Person=2	4	nsubj	4:nsubj	_
-2	ihẽ	ihẽ	PRON	pro	Animacy=Hum|Number=Sing|Person=1	4	iobj	4:iobj	_
-3	ke	ke	PART	pcl	_	2	nmod	2:nmod	_
-4	remusak	sak	VERB	vt	Person=2|Voice=Cau	0	root	0:root	_
-5	ʔɪ	ʔɪ	PART	pcl	Aspect=Perf	4	discourse	4:discourse	_
+1	ne	ne	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ihẽke	ihẽ	PRON	pro	Case=Aff	3	iobj	3:iobj	_
+3	remusak	sak	VERB	vt	Voice=Cau	0	root	0:root	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux:aspect	3:aux:aspect	_
 
 # sent_id = 10
 # text = kaka ke kurumĩ uʔu rahã aʔe hãʔĩm ke matɪr
