@@ -84,7 +84,7 @@
 1	ne	ne	PRON	pro	_	3	nsubj	3:nsubj	_
 2	ihẽke	ihẽ	PRON	pro	Case=Aff	3	iobj	3:iobj	_
 3	remusak	sak	VERB	vt	Voice=Cau	0	root	0:root	_
-4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux:aspect	3:aux:aspect	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	3:aux	_
 
 # sent_id = 10
 # text = kaka ke kurumĩ uʔu rahã aʔe hãʔĩm ke matɪr
