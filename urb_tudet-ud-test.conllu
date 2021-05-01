@@ -472,6 +472,6 @@
 # text_eng = You made me get up (Duarte 2019 [47] JL)
 1	neke	ne	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
 2	ihẽ	ihẽ	PRON	pro	_	3	obj	3:obj	_
-3	remupuʔam	puʔam	VERB	vt	Voice=Cau	0	root	0:root	_
-4	ʔɪ	ʔɪ	AUX	aux	Number=Sing|Person=2|Aspect=Perf	3	aux	3:aux	_
+3	remupuʔam	puʔam	VERB	vt	Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
+4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	3:aux	_
 
