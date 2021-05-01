@@ -421,7 +421,7 @@
 1	mahem	mahem	VERB	vt	Person=3	0	root	0:root	_
 2	arapuha	arapuha	NOUN	n	_	1	nsubj	1:nsubj	_
 3	himiʔu	himiʔu	NOUN	n	_	1	obj	1:obj	_
-4	oho	ho	VERB	vi	Person=3	1	aux	1:aux	_
+4	oho	ho	AUX aux Person=3	1	aux	1:aux	_
 
 # sent_id = 703
 # text = ne ihẽke renupã rahã ihẽ ahota
