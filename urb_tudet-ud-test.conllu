@@ -12,7 +12,7 @@
 # sent_id = 2
 # text = jane japikũj mi ?
 # text_eng = Did we row (Duarte 2019 [8])
-1	jane	jane	PRON	pro	_	2	nsubj	2:nsubj	_
+1	jane	jane	PRON	pro	Number=Sing|Person=1	2	nsubj	2:nsubj	_
 2	japikũj	pikũj	VERB	vi	_	0	root	0:root	_
 3	mi	mi	PART	pcl	_	2	discourse	2:discourse	_
 4	?	?	PUNCT	punct	_	2	punct	2:punct	_
