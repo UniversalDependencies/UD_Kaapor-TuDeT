@@ -433,3 +433,10 @@
 5	ihẽ	ihẽ	PRON	pro	_	6	obj	6:obj	_
 6	ahota	ho	VERB	vi	Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
 
+# sent_id = 704
+# text = pɪnupɪnu ate ehe je
+# text_eng = She was really farting a lot on him (Godoy 2017 [4] JL)
+1	pɪnupɪnuate	pɪnu	VERB	vi	Intense=Yes	0	root	0:root	_
+2	ehe	ehe	PRON	pro	_	1	nsubj	1:nsubj	_
+3	je	je	PART	pcl	_	1	discourse	1:discourse	_
+
