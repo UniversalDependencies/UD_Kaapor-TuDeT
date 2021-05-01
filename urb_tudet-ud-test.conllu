@@ -423,3 +423,14 @@
 3	himiʔu	himiʔu	NOUN	n	_	1	obj	1:obj	_
 4	oho	ho	AUX	aux	Person=3	1	aux	1:aux	_
 
+# sent_id = 703
+# text = ne ihẽke renupã rahã ihẽ ahota
+# text_eng = If you hit me, I will go away (Duarte 2019 [22] JL)
+1	ne	ne	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ihẽke	ihẽ	PRON	pro	Case=Aff	3	obj	3:obj	_
+3	renupã	nupã	VERB	vt	Number=Sing|Person=2	6	advcl	6:advcl	_
+4	rahã	rahã	SCONJ	sc	_	3	mark	3:mark	_
+5	ihẽ	ihẽ	PRON	pro	_	6	obj	6:obj	_
+6	ahota	ho	VERB	vi	Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
+
+
