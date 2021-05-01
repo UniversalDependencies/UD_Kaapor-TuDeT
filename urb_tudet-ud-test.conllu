@@ -483,3 +483,10 @@
 3	apɪhɪk	pɪhɪk	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
 4	ʔɪ	ʔɪ	AUX	aux	_	3	aux	3:aux	_
 
+# sent_id = 710
+# text = aʔe ikɪke jiʔok
+# text_eng = He has taken out somebody's louse (a definite one) (Duarte 2019 [35a] JL)
+1	aʔe	aʔe	PRON	pro	Person=3	3	nsubj	3:nsubj	_
+2	ikɪke	kɪ	NOUN	n	Case=Aff|Rel=Cont	3	obj	3:obj	_
+3	jiʔok	jiʔok	VERB	vt	Person=3	0	root	0:root	_
+
