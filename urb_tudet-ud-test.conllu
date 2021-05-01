@@ -440,3 +440,12 @@
 2	ehe	ehe	PRON	pro	_	1	nsubj	1:nsubj	_
 3	je	je	PART	pcl	_	1	discourse	1:discourse	_
 
+# sent_id = 705
+# text = pe oho je tĩ
+# text_eng = She went again (towards the boy) (Godoy 2017 [5] JL)
+# text_por = E ela foi de novo (até o menino)
+1	pe	pe	ADV	adv	_	2	advmod	2:advmod	_
+2	oho	ho	VERB	vi	Person=3	0	root	0:root	_
+3	je	je	PART	pcl	_	2	discourse	2:discourse	_
+4	tĩ	tĩ	ADV	adv	_	2	advmod	2:advmod	_
+
