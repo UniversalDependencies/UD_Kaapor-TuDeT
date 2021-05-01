@@ -438,7 +438,7 @@
 # text_eng = She was really farting a lot on him (Godoy 2017 [4] JL)
 # text_por = Ficava peidando muito mesmo nele
 1	pɪnupɪnuate	pɪnu	VERB	vi	Intense=Yes	0	root	0:root	_
-2	ehe	ehe	PRON	pro	_	1	nsubj	1:nsubj	_
+2	ehe	ehe	ADP	posp	Rel=NCont	1	case	1:case	_
 3	je	je	PART	pcl	_	1	discourse	1:discourse	_
 
 # sent_id = 705
