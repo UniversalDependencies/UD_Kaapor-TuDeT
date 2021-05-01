@@ -459,3 +459,10 @@
 3	je	je	PART	pcl	_	1	discourse	1:discourse	_
 4	tĩ	tĩ	ADV	adv	_	1	advmod	1:advmod	_
 
+# sent_id = 707
+# text = karai riki muka mopok
+# text_eng = It was the non-Indians that shot off shotguns (Kakumasu 1986: 328 [5] JL)
+1	karai	karai	NOUN	n	_	4	nsubj	4:nsubj	_
+2	riki	riki	ADV	adv	_	1	advmod	1:advmod	_
+3	muka	muka	NOUN	n	_	4	obj	4:obj	_
+4	mopok	mopok	VERB	vt	Person=3	0	root	0:root	_
