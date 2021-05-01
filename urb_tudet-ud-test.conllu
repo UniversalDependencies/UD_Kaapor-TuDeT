@@ -467,3 +467,11 @@
 3	muka	muka	NOUN	n	_	4	obj	4:obj	_
 4	mopok	mopok	VERB	vt	Person=3	0	root	0:root	_
 
+# sent_id = 708
+# text = neke ihẽ remupuʔam ʔɪ
+# text_eng = You made me get up (Duarte 2019 [47] JL)
+1	neke	ne	PRON	pro	Case=Aff	3	nsubj	3:nsubj	_
+2	ihẽ	ihẽ	PRON	pro	_	3	obj	3:obj	_
+3	remupuʔam	puʔam	VERB	vt	Voice=Cau	0	root	0:root	_
+4	ʔɪ	ʔɪ	AUX	aux	Number=Sing|Person=2|Aspect=Perf	3	aux	3:aux	_
+
