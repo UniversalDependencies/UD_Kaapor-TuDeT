@@ -450,3 +450,12 @@
 3	je	je	PART	pcl	_	2	discourse	2:discourse	_
 4	tĩ	tĩ	ADV	adv	_	2	advmod	2:advmod	_
 
+# sent_id = 706
+# text = panduʔɪmanu taʔɪn je tĩ
+# text_eng = The boy did't say anything (Godoy 2017 [8] JL)
+# text_por = O menino não contava
+1	panduʔɪmanu	pandu	VERB	vt	_	0	root	0:root	_
+2	taʔɪn	taʔɪn	NOUN	n	_	1	nsubj	1:nsubj	_
+3	je	je	PART	pcl	_	1	discourse	1:discourse	_
+4	tĩ	tĩ	ADV	adv	_	1	advmod	1:advmod	_
+
