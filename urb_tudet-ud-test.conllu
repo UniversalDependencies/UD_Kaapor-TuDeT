@@ -498,3 +498,11 @@
 3	ajiʔok	jiʔok	VERB	vt	Person=3	0	root	0:root	_
 4	ʔɪ	ʔɪ	AUX	aux	Aspect=Perf	3	aux	3:aux	_
 
+# sent_id = 50
+# text = taʔin hokwenke nupã uʔam
+# text_eng = The child is knocking at her door (standing up). (Duarte 2019 [17] SZ)
+1	taʔin	taʔin	NOUN	n	_	3	nsubj	3:nsubj	_
+2	hokwenke	okwen	NOUN	n	Person=3|Case=Aff	3	obj	3:obj	_
+3	nupã	nupã	VERB	vt	Person=3	0	root	0:root	_
+4	uʔam	ʔam	ADV	adv	Person=3	3	advmod	3:advmod	_
+
