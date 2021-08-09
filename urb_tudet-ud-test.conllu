@@ -506,3 +506,9 @@
 3	nupã	nupã	VERB	vt	Person=3	0	root	0:root	_
 4	uʔam	ʔam	ADV	adv	_	3	advmod	3:advmod	_
 
+# sent_id = 51
+# text = ami tomake cai
+# text_eng = Purutu shouted ( Duarte 2019 [26a] SZ)
+1	Purutuke	Purutu	PROPN	ppn	Case=Aff	2	nsubj	2:nsubj	_
+2	ahem	ahem	VERB	vi	Person=3	0	root	0:root	_
+
