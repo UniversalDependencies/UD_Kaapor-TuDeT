@@ -539,8 +539,7 @@
 
 # sent_id = 55
 # text = pe imu uʔɪ raʔɪr mujã ipe je uʔɪ sepetu ɪrapar raʔɪr
-# text_eng = Then, his brother … made a small arrow with a tip of wood and a small
-bow for him (Godoy 2017 [14] ZS)
+# text_eng = Then, his brother … made a small arrow with a tip of wood and a small bow for him (Godoy 2017 [14] ZS)
 1	pe	pe	ADV	adv	_	5	advmod	5:advmod	_
 2	imu	mu	NOUN	n	Person=3	5	nsubj	5:nsubj	_
 3	uʔɪ	uʔɪ	NOUN	n	_	5	obj	5:obj	_
