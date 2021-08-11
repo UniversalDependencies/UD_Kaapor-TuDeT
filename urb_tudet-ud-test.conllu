@@ -518,3 +518,13 @@
 1	Purutu	Purutu	PROPN	ppn	_	2	nsubj	2:nsubj	_
 2	ahem	ahem	VERB	vi	Person=3	0	root	0:root	_
 
+# sent_id = 53
+# text = taʔɪnke itawa imu parahɪahɪ ipe je
+# text_eng = The boy was yellowish (sick), his brother was very angry with him (Godoy 2017 [6] ZS)
+1	taʔɪnke	taʔɪn	NOUN	n	Case=Aff	3	nmod	3:nmod	_
+2	itawa	tawa	NOUN	n	Person=3	1	amod	1:amod	_
+3	imu	mu	NOUN	n	Person=3	4	nsubj	4:nsubj	_
+4	parahɪahɪ	parahɪahɪ	VERB	vi	Intense=Yes	0	root	0:root	_
+5	ipe	pe	PRON	ppn	Case=Dat|Person=3	4	iobj	4:iobj	_
+6	je	je	PART	pcl	_	1	discourse	1:discourse	_
+
