@@ -525,6 +525,6 @@
 2	itawa	tawa	NOUN	n	Person=3	1	amod	1:amod	_
 3	imu	mu	NOUN	n	Person=3	4	nsubj	4:nsubj	_
 4	parahɪahɪ	parahɪahɪ	VERB	vi	Intense=Yes	0	root	0:root	_
-5	ipe	pe	PRON	ppn	Case=Dat|Person=3	4	iobj	4:iobj	_
+5	ipe	pe	PRON	ppn Person=3	4	iobj	4:iobj	_
 6	je	je	PART	pcl	_	1	discourse	1:discourse	_
 
