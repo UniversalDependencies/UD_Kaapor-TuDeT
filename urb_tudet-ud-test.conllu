@@ -548,7 +548,7 @@
 6	ipe	pe	PRON	ppn	Person=3	5	iobj	5:iobj	_
 7	je	je	PART	pcl	_	5	discourse	5:discourse	_
 8	uʔɪ	uʔɪ	NOUN	n	_	5	obl	5:obl	_
-9	sepetu	sepetu	NOUN	n	_	10	advmod	10:advmod	_
-10	ɪrapar	ɪrapar	NOUN	n	_	8	advmod	8:advmod	_
+9	sepetu	sepetu	NOUN	n	_	10	nmod	10:nmod	_
+10	ɪrapar	ɪrapar	NOUN	n	_	8	nmod	8:nmod	_
 11	raʔɪr	raʔɪr	NOUN	n	_	10	amod	10:amod	_
 
