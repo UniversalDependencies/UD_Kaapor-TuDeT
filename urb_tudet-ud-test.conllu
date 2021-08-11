@@ -528,3 +528,12 @@
 5	ipe	pe	PRON	ppn	Person=3	4	iobj	4:iobj	_
 6	je	je	PART	pcl	_	1	discourse	1:discourse	_
 
+# sent_id = 54
+# text = netawate nekeã nejɪtɪʔɪmte amõ ʔɪ
+# text_eng = You are yellowish and very lazy too (Godoy 2017 [7] ZS)
+1	netawate	tawa	VERB	vi	Person=2|Intense=Yes	0	root	0:root	_
+2	nekeã	ã	PRON	pro	Person=2|Case=Aff	1	nsubj	1:nsubj	_
+3	nejɪtɪʔɪmte	jɪtɪʔɪm	VERB	vi	Person=2|Intense=Yes	1	conj	1:conj	_
+4	amõ	amõ	ADV	adv	_	3	advmod	3:advmod	_
+5	ʔɪ	ʔɪ	PART	ppl	_	3	discourse	3:discourse	_
+
