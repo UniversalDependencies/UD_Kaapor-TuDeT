@@ -531,7 +531,7 @@
 # sent_id = 54
 # text = netawate nekeã nejɪtɪʔɪmte amõ ʔɪ
 # text_eng = You are yellowish and very lazy too (Godoy 2017 [7] ZS)
-1	netawate	tawa	VERB	vi	Person=2|Intense=Yes|Person=2	0	root	0:root	_
+1	netawate	tawa	VERB	vi	Intense=Yes|Person=2	0	root	0:root	_
 2	nekeã	ã	PRON	pro	Case=Aff|Person=2	1	nsubj	1:nsubj	_
 3	nejɪtɪʔɪmte	jɪtɪʔɪm	VERB	vi	Intense=Yes|Person=2	1	conj	1:conj	_
 4	amõ	amõ	ADV	adv	_	3	advmod	3:advmod	_
