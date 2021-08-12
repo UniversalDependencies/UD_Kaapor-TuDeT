@@ -552,3 +552,13 @@
 10	ɪrapar	ɪrapar	NOUN	n	_	8	nmod	8:nmod	_
 11	raʔɪr	raʔɪr	NOUN	n	_	10	amod	10:amod	_
 
+# sent_id = 56
+# text = pe aʔi ai tur je tĩ
+# text_eng = The old woman came again (Godoy 2017 [17] ZS)
+1	pe	pe	ADV	adv	_	4	advmod	4:advmod	_
+2	aʔi	aʔi	NOUN	n	Animacy=Hum	4	nsubj	4:nsubj	_
+3	ai	ai	NOUN	n	_	2	amod	2:amod	_
+4	tur	tur	VERB	vi	_	0	root	0:root	_
+5	je	je	PART	pcl	_	4	discourse	4:discourse	_
+6	tĩ	tĩ	ADV	adv	_	4	advmod	4:advmod	_
+
