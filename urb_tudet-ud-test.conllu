@@ -575,3 +575,12 @@
 8	ihai	hai	NOUN	n	Person=3	6	obj	6:obj	_
 9	aike	ai	NOUN	n	Case=Aff	8	amod	8:amod	_
 
+# sent_id = 58
+# text = ɪmante pe aʔike manõ je‘ɪ
+# text_eng = Later, the old woman died (Godoy 2017 [28] ZS)
+1	ɪmante	ɪman	ADV	adv	Intense=Yes	4	advmod	4:advmod	_
+2	pe	pe	ADV	adv	_	4	advmod	4:advmod	_
+3	aʔike	aʔi	NOUN	n	Animacy=Hum|Case=Aff	4	nsubj	4:nsubj	_
+4	manõ	manõ	VERB	vi	_	0	root	0:root	_
+5	je‘ɪ	je	PART	pcl	_	4	discourse	4:discourse	_
+
