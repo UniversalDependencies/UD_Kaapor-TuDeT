@@ -562,3 +562,16 @@
 5	je	je	PART	pcl	_	4	discourse	4:discourse	_
 6	tĩ	tĩ	ADV	adv	_	4	advmod	4:advmod	_
 
+# sent_id = 57
+# text = pe saʔe aʔi ihái ʃirurke pirokhũ je ihai aike
+# text_eng = So he … the old woman raised her own old skirt, her pants (Godoy 2017 [18] ZS)
+1	pe	pe	ADV	adv	_	6	advmod	6:advmod	_
+2	saʔe	saʔe	NOUN	n	_	3	nmod	3:nmod	_
+3	aʔi	aʔi	NOUN	n	Animacy=Hum	6	nsubj	6:nsubj	_
+4	ihái	hái	NOUN	n	Person=3	6	obj	6:obj	_
+5	ʃirurke	ʃirur	NOUN	n	Case=Aff	4	amod	4:amod	_
+6	pirokhũ	pirok	VERB	vt	Intense=Yes	0	root	0:root	_
+7	je	je	PART	pcl	_	6	discourse	6:discourse	_
+8	ihai	hai	NOUN	n	Person=3	6	obj	6:obj	_
+9	aike	ai	NOUN	n	Case=Aff	8	amod	8:amod	_
+
