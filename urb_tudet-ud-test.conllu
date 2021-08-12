@@ -591,3 +591,14 @@
 2	upa	upa	PART	pcl	_	1	discourse	1:discourse	_
 3	mupinim	pinim	VERB	vt	Voice=Cau	0	root	0:root	_
 
+# sent_id = 60
+# text = ko ihē paper pinim amuwɪr nde pe
+# text_eng = Thus I sent a letter to you (Kakumasu 1986: 328 [6] ZS)
+1	ko	ko	ADV	adv	_	5	advmod	5:advmod	_
+2	ihē	ihē	PRON	pro	_	5	nsubj	5:nsubj	_
+3	paper	paper	NOUN	n	_	5	obj	5:obj	_
+4	pinim	pinim	NOUN	n	_	3	amod	3:amod	_
+5	amuwɪr	wɪr	VERB	vi	Person=1|Number=Sing|Voice=Cau	0	root	0:root	_
+6	nde	nde	PRON	pro	_	5	iobj	5:iobj	_
+7	pe	pe	ADP	pp	_	6	case	6:case	_
+
