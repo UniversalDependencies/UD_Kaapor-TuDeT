@@ -584,3 +584,10 @@
 4	manõ	manõ	VERB	vi	_	0	root	0:root	_
 5	je‘ɪ	je	PART	pcl	_	4	discourse	4:discourse	_
 
+# sent_id = 59
+# text = kujãtake upa mupinim
+# text_eng = All the women were painted (Godoy 2017 [37] ZS)
+1	kujãtake	kujã	NOUN	n	Case=Aff|Number=Plur	3	nsubj	3:nsubj	_
+2	upa	upa	PART	pcl	_	1	discourse	1:discourse	_
+3	mupinim	pinim	VERB	vt	Voice=Cau	0	root	0:root	_
+
