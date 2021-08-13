@@ -611,3 +611,12 @@
 4	apɪhɪk	pɪhɪk	VERB	vt	_	0	root	0:root	_
 5	aʃo	ʃo	AUX	aux	Person=1|Number=Sing	4	aux	4:aux	_
 
+# sent_id = 62
+# text = pe riki katar ngã muhɪk
+# text_eng = And so they brought the flu (Kakumasu 1986: 328 [18] ZS)
+1	pe	pe	CCONJ	cc	_	5	cc	5:cc	_
+2	riki	riki	ADV	adv	_	5	advmod	5:advmod	_
+3	katar	katar	NOUN	n	_	5	obj	5:obj	_
+4	ngã	ngã	PRON	pro	Person=3|Number=Plur	5	nsubj	5:nsubj	_
+5	muhɪk	hɪk	VERB	vi	Person=3|Voice=Cau	0	root	0:root	_
+
