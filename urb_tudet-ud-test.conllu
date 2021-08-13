@@ -681,3 +681,10 @@
 5	ngā	gā	PRON	pro	Number=Plur|Person=3	3	nsubj	3:nsubj	_
 6	ipe	pe	ADP	pp	Person=3	1	case	1:case	_
 
+# sent_id = 69
+# text = ihē ahota asak
+# text_eng = I'll go see (Kakumasu 1986: 328 [37] ZS)
+1	ihē	ihē	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ahota	ho	VERB	vi	Number=Sing|Tense=Fut|Person=1	3	csubj	3:csubj	_
+3	asak	sak	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
+
