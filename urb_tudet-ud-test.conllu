@@ -653,3 +653,12 @@
 5	katu	katu	ADV	adv	_	3	advmod	3:advmod	_
 6	tipe	tipe	PART	pcl	Aspect=Frus	3	discourse	3:discourse	_
 
+# sent_id = 66
+# text = uʔike wiraʔi take uʔu ɪm
+# text_eng = wira'i folks didn't eat any manioc meal (Kakumasu 1986: 328 [13] ZS)
+1	uʔike	uʔi	NOUN	n	Case=Aff	4	obj	4:obj	_
+2	wiraʔi	wiraʔi	PRON	pro	_	3	nmod	3:nmod	_
+3	take	ta	PRON	pro	Case=Aff|Number=Plur	4	nsubj	4:nsubj	_
+4	uʔu	ʔu	VERB	vt	Person=3	0	root	0:root	_
+5	ɪm	ɪm	PART	pcl	_	4	discourse	4:discourse	_
+
