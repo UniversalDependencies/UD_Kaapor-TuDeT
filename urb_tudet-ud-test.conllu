@@ -671,3 +671,13 @@
 4	amoīta	moī	VERB	vt	Number=Sing|Tense=Fut|Person=1	0	root	0:root	_
 5	tipe	tipe	PART	pcl	Aspect=Frus	4	discourse	4:discourse	_
 
+# sent_id = 68
+# text = pāsɪkwer riki matɪr uhu ngā ipe
+# text_eng = They got a lot of cloth for him (Kakumasu 1986: 328 [30] ZS)
+1	pāsɪkwer	pāsɪkwer	NOUN	n	_	3	obj	3:obj	_
+2	riki	riki	ADV	adv	_	3	advmod	3:advmod	_
+3	matɪr	atɪr	VERB	vt	Person=3	0	root	0:root	_
+4	uhu	uhu	ADV	adv	_	1	advmod	1:advmod	_
+5	ngā	gā	PRON	pro	Number=Plur|Person=3	3	nsubj	3:nsubj	_
+6	ipe	pe	ADP	pp	Person=3	1	case	1:case	_
+
