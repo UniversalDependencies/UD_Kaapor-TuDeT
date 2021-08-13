@@ -633,3 +633,13 @@
 8	tī	tī	ADV	adv	_	7	advmod	7:advmod	_
 9	pɪtuniwe	pɪtuniwe	ADV	adv	_	7	advmod	7:advmod	_
 
+# sent_id = 64
+# text = pahar pahar je kɪse meʔē ngā
+# text_eng = It is said that they very quickly gave out knives (Kakumasu 1986: 328 [29] ZS)
+1	pahar	pahar	ADV	adv	_	5	advmod	5:advmod	_
+2	pahar	pahar	ADV	adv	_	5	advmod	5:advmod	_
+3	je	je	PART	pcl	_	5	discourse	5:discourse	_
+4	kɪse	kɪse	NOUN	n	_	5	obj	5:obj	_
+5	meʔē	eʔē	VERB	vt	Person=3	0	root	0:root	_
+6	ngā	gā	PRON	pro	Number=Plur|Person=3	5	nsubj	5:nsubj	_
+
