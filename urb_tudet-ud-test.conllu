@@ -679,7 +679,7 @@
 3	matɪr	atɪr	VERB	vt	Person=3	0	root	0:root	_
 4	uhu	uhu	ADV	adv	_	1	advmod	1:advmod	_
 5	ngā	gā	PRON	pro	Number=Plur|Person=3	3	nsubj	3:nsubj	_
-6	ipe	pe	ADP	pp  _ 1	case	1:case	_
+6	ipe	pe	ADP	pp	_	1	case	1:case	_
 
 # sent_id = 69
 # text = ihē ahota asak
