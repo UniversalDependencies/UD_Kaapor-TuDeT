@@ -668,7 +668,7 @@
 1	ihē	ihē	PRON	pro	_	2	nmod	2:nmod	_
 2	rãi	rãi	NOUN	n	_	4	obj	4:obj	_
 3	ihē	ihē	PRON	pro	_	4	nsubj	4:nsubj	_
-4	amoīta	moī	VERB	vt	Number=Sing|Tense=Fut|Person=1	0	root	0:root	_
+4	amoīta	moī	VERB	vt	Tense=Fut|Number=Sing|Person=1	0	root	0:root	_
 5	tipe	tipe	PART	pcl	Aspect=Frus	4	discourse	4:discourse	_
 
 # sent_id = 68
@@ -679,7 +679,7 @@
 3	matɪr	atɪr	VERB	vt	Person=3	0	root	0:root	_
 4	uhu	uhu	ADV	adv	_	1	advmod	1:advmod	_
 5	ngā	gā	PRON	pro	Number=Plur|Person=3	3	nsubj	3:nsubj	_
-6	ipe	pe	ADP	pp	Person=3	1	case	1:case	_
+6	ipe	pe	ADP	pp  _	1	case	1:case	_
 
 # sent_id = 69
 # text = ihē ahota asak
