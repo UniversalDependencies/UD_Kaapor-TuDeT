@@ -620,3 +620,16 @@
 4	ngã	ngã	PRON	pro	Number=Plur|Person=3	5	nsubj	5:nsubj	_
 5	muhɪk	hɪk	VERB	vi	Person=3|Voice=Cau	0	root	0:root	_
 
+# sent_id = 63
+# text = pe taramō kaitā juʔipape piʔa usak oho tī pɪtuniwe
+# text_eng = And today, early in the morning, Caetano went to look for turtle eggs (Kakumasu 1986: 328 [18] ZS)
+1	pe	pe	CCONJ	cc	_	7	cc	7:cc	_
+2	taramō	taramō	ADV	adv	_	7	advmod	7:advmod	_
+3	kaitā	kaitā	PROPN	ppn	_	7	nsubj	7:nsubj	_
+4	juʔipape	juʔipape	NOUN	n	_	5	nmod	5:nmod	_
+5	piʔa	piʔa	NOUN	n	_	7	iobj	7:iobj	_
+6	usak	sak	VERB	vt	Person=3	7	ccomp	7:ccomp	_
+7	oho	ho	VERB	vi	Person=3	0	root	0:root	_
+8	tī	tī	ADV	adv	_	7	advmod	7:advmod	_
+9	pɪtuniwe	pɪtuniwe	ADV	adv	_	7	advmod	7:advmod	_
+
