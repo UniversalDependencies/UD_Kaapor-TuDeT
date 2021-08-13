@@ -643,3 +643,13 @@
 5	meʔē	eʔē	VERB	vt	Person=3	0	root	0:root	_
 6	ngā	gā	PRON	pro	Number=Plur|Person=3	5	nsubj	5:nsubj	_
 
+# sent_id = 65
+# text = ihē ndeke araho tar katu tipe
+# text_eng = I really want to take you (but can't) (Kakumasu 1986: 328 [7] ZS)
+1	ihē	ihē	PRON	pro	_	3	nsubj	3:nsubj	_
+2	ndeke	nde	PRON	pro	Case=Aff	3	obj	3:obj	_
+3	araho	raho	VERB	vt	Number=Sing|Person=1	0	root	0:root	_
+4	tar	tar	VERB	vt	_	3	ccomp	3:ccomp	_
+5	katu	katu	ADV	adv	_	3	advmod	3:advmod	_
+6	tipe	tipe	PART	pcl	Aspect=Frus	3	discourse	3:discourse	_
+
