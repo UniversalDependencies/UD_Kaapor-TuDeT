@@ -699,3 +699,16 @@
 6	jarupa	jarupa	NOUN	n	_	4	obl	4:obl	_
 7	rehe	rehe	ADP	pp	_	6	case	6:case	_
 
+# sent_id = 71
+# text = pe ɪ rɪmɪʔɪ rehe riki kamarar ta pirer pirā
+# text_eng = And it was on the shore that the Indians' skin was red (Kakumasu 1986: 328 [55] ZS)
+1	pe	pe	CCONJ	cc	_	3	cc	3:cc	_
+2	ɪ	ɪ	NOUN	n	_	3	nmod	3:nmod	_
+3	rɪmɪʔɪ	rɪmɪʔɪ	NOUN	n	_	0	root	0:root	_
+4	rehe	rehe	ADP	pp	_	3	obl	3:obl	_
+5	riki	riki	ADP	pp	_	3	case	3:case	_
+6	kamarar	kamarar	PROPN	ppn	_	8	nmod	8:nmod	_
+7	ta	ta	PRON	pro	Number=Plur	6	nmod	6:nmod	_
+8	pirer	pirer	NOUN	n	_	3	obl	3:obl	_
+9	pirā	pirā	NOUN	n	_	8	amod	8:amod	_
+
