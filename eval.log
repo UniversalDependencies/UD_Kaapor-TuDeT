@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Kaapor-TuDeT:
-commit 04d5fec118465f56cf801c9cc8783f55a88d004c
-Merge: 280cb27 bfa5daa
+commit 0360c233b1734fe4f16360b0f5b93fcb9a79982d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 16:39:33 2021 +0100
 Size: counted 366 of 366 words (nodes).
 Size: min(0, log((N/1000)**2)) = 0.
 Size: maximum value 13.815511 is for 1000000 words or more.
