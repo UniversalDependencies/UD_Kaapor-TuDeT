@@ -114,7 +114,7 @@
 # text = ihẽ a’etake amujengar
 # text_eng = I made them sing (Duarte 2014 [23b] NS)
 1	ihẽ	ihẽ	PRON	pro	_	3	nsubj	_	_
-2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plur	3	nsubj	_	_
+2	a’etake	a’e	PRON	pro	Case=Aff|Number=Plur	3	obj	_	_
 3	amujengar	jengar	VERB	vt	Person=1|Voice=Cau	0	root	_	_
 
 # sent_id = 14
@@ -398,11 +398,11 @@
 # text = Peteĩ Xõru jahy kanim oho
 # text_pt =  O pai de Jon esteve ausente por um mês. (UKconnect [16] NS)
 # text_eng =  Jon's father was absent for a month.
-1	Peteĩ	_	PRON	pro	_	4	nsubj	_	_
-2	Xõru	_	PROPN	propn	_	4	nsubj	_	_
-3	jahy	_	NOUN	n	_	4	obj	_	_
-4	kanim	_	VERB	v	Person=3	0	root	_	_
-5	oho	_	VERB	v	Person=3	4	compound	_	_
+1	Peteĩ	_	NUM	num	_	3	nummod	_	_
+2	Xõru	_	PROPN	propn	_	5	nsubj	_	_
+3	jahy	_	NOUN	n	_	5	obj	_	_
+4	kanim	_	VERB	v	Person=3	5	xcomp	_	_
+5	oho	_	VERB	v	Person=3	0	root	_	_
 
 # sent_id = 170
 # text = Arahã maʔe Kaninde rehe ihẽ araho
@@ -684,9 +684,9 @@
 # sent_id = 69
 # text = ihē ahota asak
 # text_eng = I'll go see (Kakumasu 1986: 328 [37] ZS)
-1	ihē	ihē	PRON	pro	_	3	nsubj	_	_
-2	ahota	ho	VERB	vi	Number=Sing|Person=1|Tense=Fut	3	csubj	_	_
-3	asak	sak	VERB	vt	Number=Sing|Person=1	0	root	_	_
+1	ihē	ihē	PRON	pro	_	2	nsubj	_	_
+2	ahota	ho	VERB	vi	Number=Sing|Person=1|Tense=Fut	0	root	_	_
+3	asak	sak	VERB	vt	Number=Sing|Person=1	2	parataxis	_	_
 
 # sent_id = 70
 # text = ko riki ihē ahɪk ajur jarupa rehe
@@ -695,7 +695,7 @@
 2	riki	riki	ADP	pp	_	1	case	_	_
 3	ihē	ihē	PRON	pro	_	4	nsubj	_	_
 4	ahɪk	hɪk	VERB	vt	Number=Sing|Person=1	0	root	_	_
-5	ajur	jur	VERB	vi	Number=Sing|Person=1	4	csubj	_	_
+5	ajur	jur	VERB	vi	Number=Sing|Person=1	4	dep	_	_
 6	jarupa	jarupa	NOUN	n	_	4	obl	_	_
 7	rehe	rehe	ADP	pp	_	6	case	_	_
 
