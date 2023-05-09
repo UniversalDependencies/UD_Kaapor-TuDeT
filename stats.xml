@@ -14,7 +14,7 @@
   <forms unique="219" /><!-- pe, ihẽ, je, ke, tĩ, aʔe, ihē, ihẽke, riki, oho, ,, ne, neke, ʔɪ, raʔɪr -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="13">
+  <tags unique="14">
     <tag name="ADJ">1</tag><!-- panem -->
     <tag name="ADP">9</tag><!-- pe, ehe, rehe, riki -->
     <tag name="ADV">37</tag><!-- pe, tĩ, riki, ko, pahar, uhu, _, aja, ajameʔẽ, amõ -->
@@ -22,8 +22,9 @@
     <tag name="CCONJ">4</tag><!-- pe -->
     <tag name="DET">3</tag><!-- ko, ne, upa -->
     <tag name="NOUN">88</tag><!-- aʔi, uʔi, raʔɪr, Tapi, _, ai, hái, kɪ, mu, pirer -->
+    <tag name="NUM">1</tag><!-- _ -->
     <tag name="PART">37</tag><!-- je, ke, tĩ, tipe, riki, ta, mi, upa, ã, ɪm -->
-    <tag name="PRON">63</tag><!-- ihẽ, aʔe, ne, ihē, _, a’e, gā, nde, pe, ta -->
+    <tag name="PRON">62</tag><!-- ihẽ, aʔe, ne, ihē, a’e, gā, nde, pe, ta, _ -->
     <tag name="PROPN">20</tag><!-- Maíra, Purutu, _, ʃaʔe, Ana, Arauxu, Kaninde, Oropo, Tuti, kaitā -->
     <tag name="PUNCT">6</tag><!-- ,, ? -->
     <tag name="SCONJ">2</tag><!-- rahã -->
@@ -49,7 +50,7 @@
     <feat name="Voice" value="Cau" upos="VERB">10</feat><!-- ajumukahem, amujengar, amuwɪr, amuɁe, eremuɁe, muhɪk, mupinim, muwak, remupuʔam, remusak -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="21">
+  <deps unique="23">
     <dep name="advcl">3</dep>
     <dep name="advmod">37</dep>
     <dep name="amod">9</dep>
@@ -57,19 +58,21 @@
     <dep name="case">7</dep>
     <dep name="cc">4</dep>
     <dep name="ccomp">2</dep>
-    <dep name="compound">2</dep>
+    <dep name="compound">1</dep>
     <dep name="conj">2</dep>
-    <dep name="csubj">2</dep>
+    <dep name="dep">1</dep>
     <dep name="det">1</dep>
     <dep name="discourse">32</dep>
     <dep name="iobj">5</dep>
     <dep name="mark">2</dep>
     <dep name="nmod">23</dep>
-    <dep name="nsubj">74</dep>
-    <dep name="obj">57</dep>
+    <dep name="nsubj">72</dep>
+    <dep name="nummod">1</dep>
+    <dep name="obj">58</dep>
     <dep name="obl">8</dep>
+    <dep name="parataxis">1</dep>
     <dep name="punct">6</dep>
     <dep name="root">83</dep>
-    <dep name="xcomp">1</dep>
+    <dep name="xcomp">2</dep>
   </deps>
 </treebank>
