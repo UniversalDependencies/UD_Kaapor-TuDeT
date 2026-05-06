@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Kaapor-TuDeT:
-commit eb80a561566c35bb5033c820566df04c433e607d
-Merge: 57506b5 1bd787f
+commit 4f161a32031f8b6dab0b9a7337c2b7e2fdb5ad2f
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:08:17 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'urb_tudet'
 Language code (from CoNLL-U file name) = 'urb'
@@ -25,21 +25,22 @@ Universal relations: 23 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang urb --max-err=10 UD_Kaapor-TuDeT/urb_tudet-ud-test.conllu
-[Line 4 Sent 1]: [L3 Warning pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 15 Sent 2]: [L3 Warning pron-det-without-prontype] The word 'jane' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 32 Sent 4]: [L3 Warning pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 40 Sent 5]: [L3 Warning pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 54 Sent 6]: [L3 Warning pron-det-without-prontype] The word 'upa' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 72 Sent 8]: [L3 Warning pron-det-without-prontype] The word 'ko' is tagged 'DET' but it lacks the 'PronType' feature
-[Line 84 Sent 9]: [L3 Warning pron-det-without-prontype] The word 'ne' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 85 Sent 9]: [L3 Warning pron-det-without-prontype] The word 'ihẽke' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 96 Sent 10]: [L3 Warning pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 110 Sent 12]: [L3 Warning pron-det-without-prontype] The word 'a’eta' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
-[Line 573 Sent 57]: [L3 Syntax too-many-objects] Multiple direct objects [4, 8] ('ihái', 'ihai') under the predicate 'pirokhũ'.
-Syntax errors: 1
-Warnings: 66
-*** FAILED *** with 1 errors
+[Line 4 Sent 1]: [L3 WARNING pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 15 Sent 2]: [L3 WARNING pron-det-without-prontype] The word 'jane' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 32 Sent 4]: [L3 WARNING pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 40 Sent 5]: [L3 WARNING pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 54 Sent 6]: [L3 WARNING pron-det-without-prontype] The word 'upa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 72 Sent 8]: [L3 WARNING pron-det-without-prontype] The word 'ko' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 84 Sent 9]: [L3 WARNING pron-det-without-prontype] The word 'ne' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 85 Sent 9]: [L3 WARNING pron-det-without-prontype] The word 'ihẽke' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 96 Sent 10]: [L3 WARNING pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 110 Sent 12]: [L3 WARNING pron-det-without-prontype] The word 'a’eta' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 127 Sent 14]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ihẽke') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 573 Sent 57]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 8] ('ihái', 'ihai') under the predicate 'pirokhũ'.
+Warnings: 65
+SYNTAX errors: 2
+*** FAILED *** with 2 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
