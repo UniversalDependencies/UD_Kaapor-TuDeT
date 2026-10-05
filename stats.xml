@@ -65,11 +65,11 @@
     <dep name="discourse">32</dep>
     <dep name="iobj">5</dep>
     <dep name="mark">2</dep>
-    <dep name="nmod">23</dep>
+    <dep name="nmod">24</dep>
     <dep name="nsubj">72</dep>
     <dep name="nummod">1</dep>
     <dep name="obj">58</dep>
-    <dep name="obl">8</dep>
+    <dep name="obl">7</dep>
     <dep name="parataxis">1</dep>
     <dep name="punct">6</dep>
     <dep name="root">83</dep>
