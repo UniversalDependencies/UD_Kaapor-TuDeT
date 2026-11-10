@@ -124,7 +124,7 @@
 2	ma’e	ma’e	NOUN	n	_	3	nmod	_	_
 3	jukwahá	jukwa	NOUN	n	Rel=Cont	6	obj	_	_
 4	ihẽke	ihẽ	PRON	pro	Case=Aff	6	obl	_	_
-5	pe	pe	ADP	pp	_	4	obl	_	_
+5	pe	pe	ADP	pp	_	4	nmod	_	_
 6	me’ẽ	me	VERB	vt	Person=3	0	root	_	_
 
 # sent_id = 15
