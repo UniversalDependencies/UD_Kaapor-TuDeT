@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Kaapor-TuDeT:
-commit 4f161a32031f8b6dab0b9a7337c2b7e2fdb5ad2f
+commit e4075672a3303e90dd19af840738de895f708bad
+Merge: effa83e ded825b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 11 20:08:17 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'urb_tudet'
 Language code (from CoNLL-U file name) = 'urb'
@@ -36,11 +36,10 @@ Genres: found 2 out of 18 known.
 [Line 96 Sent 10]: [L3 WARNING pron-det-without-prontype] The word 'aʔe' is tagged 'PRON' but it lacks the 'PronType' feature
 [Line 110 Sent 12]: [L3 WARNING pron-det-without-prontype] The word 'a’eta' is tagged 'PRON' but it lacks the 'PronType' feature
 ...suppressing further messages regarding WARNING/MORPHO
-[Line 127 Sent 14]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ihẽke') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 573 Sent 57]: [L3 SYNTAX too-many-objects] Multiple direct objects [4, 8] ('ihái', 'ihai') under the predicate 'pirokhũ'.
 Warnings: 65
-SYNTAX errors: 2
-*** FAILED *** with 2 errors
+SYNTAX errors: 1
+*** FAILED *** with 1 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
